@@ -12,14 +12,12 @@ If you find anything incorrect, please let me know. And welcome your contributio
 
 
 
-
-
 - 2021
-  - Beyond Low-frequency Information in Graph Convolutional Networks, [AAAI](https://arxiv.org/abs/2101.00797), [Code](https://github.com/bdy9527/FAGCN)
-  - Global Node Attentions via Adaptive Spectral Filters (arXiv)
-  - Graph Neural Networks with Adaptive Frequency Response Filter (CIKM)
-  - Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node Classification? (arXiv)
-  - Is Homophily a Necessity for Graph Neural Networks? (arXiv)
+  - Beyond Low-frequency Information in Graph Convolutional Networks, AAAI, [Paper](https://arxiv.org/abs/2101.00797), [Code](https://github.com/bdy9527/FAGCN)
+  - Global Node Attentions via Adaptive Spectral Filters, OpenReview, [Paper](https://openreview.net/forum?id=w6Vm1Vob0-X), [Code](#)
+  - Graph Neural Networks with Adaptive Frequency Response Filter, CIKM, [Paper](https://arxiv.org/abs/2104.12840), [Code](https://github.com/yushundong/AdaGNN)
+  - Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node Classification?, arXiv, [Paper](https://arxiv.org/abs/2109.05641), [Code](#)
+  - Is Homophily a Necessity for Graph Neural Networks?, arXiv, [Paper](https://arxiv.org/abs/2106.06134), [Code](#)
   - GCN-SL: Graph Convolutional Networks with Structure Learning for Graphs under Heterophily (arXiv)
   - Energy Levels Based Graph Neural Networks for Heterophily (Journal of Physics: Conference Series)
   - Unifying Homophily and Heterophily Network Transformation via Motifs (arXiv)
