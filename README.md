@@ -1,6 +1,6 @@
 # Awesome Resources on Graph Neural Networks With Heterophily
 
-This repository contains the relevant resources on graph neural network (GNN) with considering heterophily. 
+This repository contains the relevant resources on graph neural network (GNN) considering heterophily. 
 
 It's worth noting that the **heterophily** we consider here is not the same as **heterogeneity**. Heterogeneity is more related to the node type difference such as the user and item nodes in recommender systems, but heterophily is more like the feature or label difference between the neighbors under the nodes with the same type. Traditional GNNs usually assume that similar nodes (features/classes) are connected together, but the "opposites attract" phenomenon also widely exists in general graphs.
 
