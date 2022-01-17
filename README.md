@@ -36,7 +36,7 @@ If you find anything incorrect, please let me know. And welcome your contributio
 - Unifying Homophily and Heterophily Network Transformation via Motifs, arXiv, [[Paper](https://arxiv.org/abs/2012.11400)], [Code]
 - Non-Local Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2005.14612)], [Code]
 - Two Sides of The Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2102.06462)], [Code]
-- On The Relationship between Heterophily And Robustness of Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2106.07767)], [Code]
+- On The Relationship between Heterophily and Robustness of Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2106.07767)], [Code]
 - GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2110.15777)], [[Code](https://github.com/xzh0u/gbk-gnn)]
 - Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs, arXiv, [[Paper](https://arxiv.org/abs/2103.14187)], [Code]
 - Label-Wise Message Passing Graph Neural Network on Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2110.08128)], [Code]
@@ -45,8 +45,8 @@ If you find anything incorrect, please let me know. And welcome your contributio
 
 ### 2020
 
-- Simple And Deep Graph Convolutional Networks, ICML, [[Paper](https://arxiv.org/abs/2007.02133)], [[Code](https://github.com/chennnM/GCNII)]
-- Beyond Homophily in Graph Neural Networks: Current Limitations And Effective Designs, NeurIPS, [[Paper](https://arxiv.org/abs/2006.11468)], [[Code](https://github.com/GemsLab/H2GCN)]
+- Simple and Deep Graph Convolutional Networks, ICML, [[Paper](https://arxiv.org/abs/2007.02133)], [[Code](https://github.com/chennnM/GCNII)]
+- Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs, NeurIPS, [[Paper](https://arxiv.org/abs/2006.11468)], [[Code](https://github.com/GemsLab/H2GCN)]
 - Geom-GCN: Geometric Graph Convolutional Networks, ICLR, [[Paper](https://arxiv.org/abs/2002.05287)], [[Code](https://github.com/graphdml-uiuc-jlu/geom-gcn)]
 
 ### 2019 and before
