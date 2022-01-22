@@ -4,7 +4,7 @@ This repository contains the relevant resources on graph neural network (GNN) co
 
 It's worth noting that the **heterophily** we consider here is not the same as **heterogeneity**. Heterogeneity is more related to the node type difference such as the user and item nodes in recommender systems, but heterophily is more like the feature or label difference between the neighbors under the nodes with the same type. Traditional GNNs usually assume that similar nodes (features/classes) are connected together, but the "opposites attract" phenomenon also widely exists in general graphs.
 
-If you find anything incorrect, please let me know. And welcome your contributions.
+If you find anything incorrect, please let me know.
 
 <!--[[Paper](https://arxiv.org/abs/2101.00797)], [[Code](https://github.com/bdy9527/FAGCN)]-->
 
