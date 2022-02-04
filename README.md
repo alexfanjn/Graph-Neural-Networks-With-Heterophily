@@ -20,6 +20,7 @@ If you find anything incorrect, please let me know.
 - GSN: A Universal Graph Neural Network Inspired by Spring Network, arXiv, [[Paper](https://arxiv.org/abs/2201.12994)], [Code]
 - GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2201.12741)], [Code]
 - Graph Decoupling Attention Markov Networks for Semi-supervised Graph Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2104.13718)], [Code]
+- Relational Graph Neural Network Design via Progressive Neural Architecture Search, arXiv, [[Paper](https://arxiv.org/abs/2105.14490)], [Code]
 
 
 ### 2021
