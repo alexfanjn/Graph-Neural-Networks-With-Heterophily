@@ -23,6 +23,8 @@ If you find anything incorrect, please let me know.
 - Graph Decoupling Attention Markov Networks for Semi-supervised Graph Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2104.13718)], [Code]
 - Relational Graph Neural Network Design via Progressive Neural Architecture Search, arXiv, [[Paper](https://arxiv.org/abs/2105.14490)], [Code]
 - Graph Neural Network with Curriculum Learning for Imbalanced Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2202.02529)], [Code]
+- Simplified Graph Convolution with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2202.04139)], [Code]
+- Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs, arXiv, [[Paper](https://arxiv.org/abs/2202.04579)], [Code]
 
 
 ### 2021
