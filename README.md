@@ -25,6 +25,7 @@ If you find anything incorrect, please let me know.
 - Graph Neural Network with Curriculum Learning for Imbalanced Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2202.02529)], [Code]
 - Simplified Graph Convolution with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2202.04139)], [Code]
 - Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs, arXiv, [[Paper](https://arxiv.org/abs/2202.04579)], [Code]
+- ***[Survey Paper]*** Graph Neural Networks for Graphs with Heterophily: A Survey, arXIv, [[Paper](https://arxiv.org/abs/2202.07082)], [Code]
 
 
 ### 2021
