@@ -33,7 +33,7 @@ If you find anything incorrect, please let me know.
 - Beyond Low-pass Filtering: Graph Convolutional Networks with Automatic Filtering, arXiv, [[Paper](https://arxiv.org/abs/2107.04755)], [[Code](https://github.com/nnzhan/AutoGCN)]
 - Graph Representation Learning Beyond Node and Homophily, arXiv, [[Paper](https://arxiv.org/abs/2203.01564)], [[Code](https://github.com/syvail/PairE-Graph-Representation-Learning-Beyond-Node-and-Homophily)]
 - Incorporating Heterophily into Graph Neural Networks for Graph Classification, arXiv, [[Paper](https://arxiv.org/abs/2203.07678)], [[Code](https://github.com/yeweiysh/IHGNN)]
-- Unsupervised Heterophilous Network Embedding via, arXiv, [[Paper](https://arxiv.org/abs/2203.10866)], [[Code](https://github.com/zhiqiangzhongddu/Selene)]
+- Unsupervised Heterophilous Network Embedding via r-Ego Network Discrimination, arXiv, [[Paper](https://arxiv.org/abs/2203.10866)], [[Code](https://github.com/zhiqiangzhongddu/Selene)]
 - Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2203.11200)], [Code]
 
 
