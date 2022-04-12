@@ -35,6 +35,7 @@ If you find anything incorrect, please let me know.
 - Incorporating Heterophily into Graph Neural Networks for Graph Classification, arXiv, [[Paper](https://arxiv.org/abs/2203.07678)], [[Code](https://github.com/yeweiysh/IHGNN)]
 - Unsupervised Heterophilous Network Embedding via r-Ego Network Discrimination, arXiv, [[Paper](https://arxiv.org/abs/2203.10866)], [[Code](https://github.com/zhiqiangzhongddu/Selene)]
 - Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2203.11200)], [Code]
+- Augmentation-Free Graph Contrastive Learning, arXiv, [[Paper](https://arxiv.org/abs/2204.04874)], [Code]
 
 
 ### 2021
