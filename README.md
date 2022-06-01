@@ -41,6 +41,8 @@ If you find anything incorrect, please let me know.
 - Augmentation-Free Graph Contrastive Learning, arXiv, [[Paper](https://arxiv.org/abs/2204.04874)], [Code]
 - Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation, arXiv, [[Paper](https://arxiv.org/abs/2205.09389)], [Code]
 - Learning heterophilious edge to drop: A general framework for boosting graph neural networks, arXiv, [[Paper](https://arxiv.org/abs/2205.11322)], [Code]
+- ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting, arXiv, [[Paper](https://arxiv.org/abs/2205.13700)], [Code]
+- EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2205.13892)], [Code]
 
 
 ### 2021
