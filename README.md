@@ -74,6 +74,7 @@ If you find anything incorrect, please let me know.
 - Label-Wise Message Passing Graph Neural Network on Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2110.08128)], [Code]
 - SkipNode: On Alleviating Over-smoothing for Deep Graph Convolutional Networks, arXiv, [[Paper](https://arxiv.org/abs/2112.11628)], [Code]
 - Node2Seq: Towards Trainable Convolutions in Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2101.01849)], [Code]
+- Simplifying approach to Node Classification in Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2111.06748)], [[Code](https://github.com/sunilkmaurya/FSGNN)]
 
 
 ### 2020
