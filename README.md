@@ -24,6 +24,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Neural Link Prediction with Walk Pooling, ICLR, [[Paper](https://arxiv.org/abs/2110.04375)], [[Code](https://github.com/DaDaCheng/WalkPooling)]
 - Finding Global Homophily in Graph Neural Networks When Meeting Heterophily, ICML, [[Paper](https://arxiv.org/abs/2205.07308)], [[Code](https://github.com/recklessronan/glognn)]
 - How Powerful are Spectral Graph Neural Networks, ICML, [[Paper](https://arxiv.org/abs/2205.11172)], [Code]
+- Optimization-Induced Graph Implicit Nonlinear Diffusion, ICML, [[Paper](https://arxiv.org/abs/2206.14418)], [[Code](https://github.com/7qchen/GIND)]
 - Sheaf Neural Networks with Connection Laplacians, ICML-W, [[Paper](https://arxiv.org/abs/2206.08702)], [Code]
 - How does Heterophily Impact Robustness of Graph Neural Networks? Theoretical Connections and Practical Implications, KDD, [[Paper](https://arxiv.org/abs/2106.07767)], [[Code](https://github.com/GemsLab/HeteRobust)]
 - NCGNN: Node-Level Capsule Graph Neural Network for Semisupervised Classification, TNNLS, [[Paper](https://arxiv.org/abs/2012.03476)], [Code]
@@ -49,6 +50,9 @@ If you find anything incorrect, please let me know. Thanks!
 - Restructuring Graph for Higher Homophily via Learnable Spectral Clustering, arXiv, [[Paper](https://arxiv.org/abs/2206.02386)], [Code]
 - Decoupled Self-supervised Learning for Non-Homophilous Graphs, arXiv, [[Paper](https://arxiv.org/abs/2206.03601)], [Code]
 - Graph Neural Networks as Gradient Flows, arXiv, [[Paper](https://arxiv.org/abs/2206.10991)], [Code]
+- RAW-GNN: RAndom Walk Aggregation based Graph Neural Network, arXiv, [[Paper](https://arxiv.org/abs/2206.13953)], [Code]
+- What Do Graph Convolutional Neural Networks Learn?, arXiv, [[Paper](https://arxiv.org/abs/2207.01839)], [Code]
+- Deformable Graph Transformer, arXiv, [[Paper](https://arxiv.org/abs/2206.14337)], [Code]
 
 
 ### 2021
@@ -69,11 +73,11 @@ If you find anything incorrect, please let me know. Thanks!
 - Geometric Scattering Attention Networks, ICASSP, [[Paper](https://arxiv.org/abs/2010.15010)], [Code]
 - Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns, KDD, [[Paper](https://arxiv.org/abs/2106.06586)], [[Code](https://github.com/susheels/gnns-and-local-assortativity)]
 - Node Similarity Preserving Graph Convolutional Networks, WSDM, [[Paper](https://arxiv.org/abs/2011.09643)], [[Code](https://github.com/ChandlerBang/SimP-GCN)]
+- Non-Local Graph Neural Networks, TPAMI, [[Paper](https://arxiv.org/abs/2005.14612)], [Code]
 - Global Node Attentions via Adaptive Spectral Filters, OpenReview, [[Paper](https://openreview.net/forum?id=w6Vm1Vob0-X)], [Code]
 - Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node Classification?, arXiv, [[Paper](https://arxiv.org/abs/2109.05641)], [Code]
 - GCN-SL: Graph Convolutional Networks with Structure Learning for Graphs under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2105.13795)], [Code]
 - Unifying Homophily and Heterophily Network Transformation via Motifs, arXiv, [[Paper](https://arxiv.org/abs/2012.11400)], [Code]
-- Non-Local Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2005.14612)], [Code]
 - Two Sides of The Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2102.06462)], [Code]
 - Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs, arXiv, [[Paper](https://arxiv.org/abs/2103.14187)], [Code]
 - Label-Wise Message Passing Graph Neural Network on Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2110.08128)], [Code]
