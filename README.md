@@ -54,6 +54,7 @@ If you find anything incorrect, please let me know. Thanks!
 - RAW-GNN: RAndom Walk Aggregation based Graph Neural Network, arXiv, [[Paper](https://arxiv.org/abs/2206.13953)], [Code]
 - What Do Graph Convolutional Neural Networks Learn?, arXiv, [[Paper](https://arxiv.org/abs/2207.01839)], [Code]
 - Deformable Graph Transformer, arXiv, [[Paper](https://arxiv.org/abs/2206.14337)], [Code]
+- Demystifying Graph Convolution with a Simple Concatenation, arXiv, [[Paper](https://arxiv.org/abs/2207.12931)], [Code]
 
 
 ### 2021
