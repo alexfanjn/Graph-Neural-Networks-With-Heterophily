@@ -45,7 +45,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2203.11200)], [Code]
 - Augmentation-Free Graph Contrastive Learning, arXiv, [[Paper](https://arxiv.org/abs/2204.04874)], [Code]
 - Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation, arXiv, [[Paper](https://arxiv.org/abs/2205.09389)], [Code]
-- Learning heterophilious edge to drop: A general framework for boosting graph neural networks, arXiv, [[Paper](https://arxiv.org/abs/2205.11322)], [Code]
+- Revisiting the Role of Heterophily in Graph Representation Learning: An Edge Classification Perspective, arXiv, [[Paper](https://arxiv.org/abs/2205.11322)], [Code]
 - ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting, arXiv, [[Paper](https://arxiv.org/abs/2205.13700)], [Code]
 - EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2205.13892)], [Code]
 - Restructuring Graph for Higher Homophily via Learnable Spectral Clustering, arXiv, [[Paper](https://arxiv.org/abs/2206.02386)], [Code]
@@ -55,6 +55,7 @@ If you find anything incorrect, please let me know. Thanks!
 - What Do Graph Convolutional Neural Networks Learn?, arXiv, [[Paper](https://arxiv.org/abs/2207.01839)], [Code]
 - Deformable Graph Transformer, arXiv, [[Paper](https://arxiv.org/abs/2206.14337)], [Code]
 - Demystifying Graph Convolution with a Simple Concatenation, arXiv, [[Paper](https://arxiv.org/abs/2207.12931)], [Code]
+- Link Prediction on Heterophilic Graphs via Disentangled Representation Learning, arXiv, [[Paper](https://arxiv.org/abs/2208.01820)], [[Code](https://github.com/sjz5202/DisenLink)]
 
 
 ### 2021
