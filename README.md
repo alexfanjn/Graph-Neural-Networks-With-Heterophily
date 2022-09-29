@@ -32,12 +32,12 @@ If you find anything incorrect, please let me know. Thanks!
 - Beyond Low-pass Filtering: Graph Convolutional Networks with Automatic Filtering, TKDE, [[Paper](https://arxiv.org/abs/2107.04755)], [[Code](https://github.com/nnzhan/AutoGCN)]
 - Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network, IJCAI, [[Paper](https://www.ijcai.org/proceedings/2022/310)], [[Code](https://github.com/zjunet/PathNet)]
 - EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks, NeurIPS, [[Paper](https://arxiv.org/abs/2205.13892)], [Code]
+- Simplified Graph Convolution with Heterophily, NeurIPS, [[Paper](https://arxiv.org/abs/2202.04139)], [Code]
 - GSN: A Universal Graph Neural Network Inspired by Spring Network, arXiv, [[Paper](https://arxiv.org/abs/2201.12994)], [Code]
 - GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2201.12741)], [Code]
 - Graph Decoupling Attention Markov Networks for Semi-supervised Graph Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2104.13718)], [Code]
 - Relational Graph Neural Network Design via Progressive Neural Architecture Search, arXiv, [[Paper](https://arxiv.org/abs/2105.14490)], [Code]
 - Graph Neural Network with Curriculum Learning for Imbalanced Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2202.02529)], [Code]
-- Simplified Graph Convolution with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2202.04139)], [Code]
 - Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs, arXiv, [[Paper](https://arxiv.org/abs/2202.04579)], [Code]
 - ***[Survey Paper]*** Graph Neural Networks for Graphs with Heterophily: A Survey, arXIv, [[Paper](https://arxiv.org/abs/2202.07082)], [Code]
 - When Does A Spectral Graph Neural Network Fail in Node Classification?, arXIv, [[Paper](https://arxiv.org/abs/2202.07902)], [Code]
@@ -60,6 +60,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Graph Polynomial Convolution Models for Node Classification of Non-Homophilous Graphs, arXiv, [[Paper](https://arxiv.org/abs/2209.05020)], [[Code](https://github.com/kishanwn/GPCN)]
 - Characterizing Graph Datasets for Node Classification: Beyond Homophily-Heterophily Dichotomy, arXiv, [[Paper](https://arxiv.org/abs/2209.06177)], [Code]
 - Make Heterophily Graphs Better Fit GNN: A Graph Rewiring Approach, arXiv, [[Paper](https://arxiv.org/abs/2209.08264)], [Code]
+- From Local to Global: Spectral-Inspired Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2209.12054)], [Code]
 
 
 ### 2021
@@ -79,7 +80,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Energy Levels Based Graph Neural Networks for Heterophily, Journal of Physics: Conference Series, [[Paper](https://iopscience.iop.org/article/10.1088/1742-6596/1948/1/012042/meta)], [Code]
 - Geometric Scattering Attention Networks, ICASSP, [[Paper](https://arxiv.org/abs/2010.15010)], [Code]
 - Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns, KDD, [[Paper](https://arxiv.org/abs/2106.06586)], [[Code](https://github.com/susheels/gnns-and-local-assortativity)]
-- Non-Local Graph Neural Networks, TPAMI, [[Paper](https://arxiv.org/abs/2005.14612)], [Code]
+- Non-Local Graph Neural Networks, TPAMI, [[Paper](https://arxiv.org/abs/2005.14612)], [[Code](https://github.com/divelab/Non-Local-GNN)]
 - Global Node Attentions via Adaptive Spectral Filters, OpenReview, [[Paper](https://openreview.net/forum?id=w6Vm1Vob0-X)], [Code]
 - Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node Classification?, arXiv, [[Paper](https://arxiv.org/abs/2109.05641)], [Code]
 - GCN-SL: Graph Convolutional Networks with Structure Learning for Graphs under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2105.13795)], [Code]
