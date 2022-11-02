@@ -33,12 +33,13 @@ If you find anything incorrect, please let me know. Thanks!
 - Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network, IJCAI, [[Paper](https://www.ijcai.org/proceedings/2022/310)], [[Code](https://github.com/zjunet/PathNet)]
 - EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks, NeurIPS, [[Paper](https://arxiv.org/abs/2205.13892)], [Code]
 - Simplified Graph Convolution with Heterophily, NeurIPS, [[Paper](https://arxiv.org/abs/2202.04139)], [Code]
+- Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs, NeurIPS, [[Paper](https://arxiv.org/abs/2202.04579)], [[Code]](https://github.com/twitter-research/neural-sheaf-diffusion)
+- Revisiting Heterophily For Graph Neural Networks, NeurIPS, [[Paper]](https://arxiv.org/abs/2210.07606), [Code]
 - GSN: A Universal Graph Neural Network Inspired by Spring Network, arXiv, [[Paper](https://arxiv.org/abs/2201.12994)], [Code]
 - GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2201.12741)], [Code]
 - Graph Decoupling Attention Markov Networks for Semi-supervised Graph Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2104.13718)], [Code]
 - Relational Graph Neural Network Design via Progressive Neural Architecture Search, arXiv, [[Paper](https://arxiv.org/abs/2105.14490)], [Code]
 - Graph Neural Network with Curriculum Learning for Imbalanced Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2202.02529)], [Code]
-- Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs, arXiv, [[Paper](https://arxiv.org/abs/2202.04579)], [Code]
 - ***[Survey Paper]*** Graph Neural Networks for Graphs with Heterophily: A Survey, arXIv, [[Paper](https://arxiv.org/abs/2202.07082)], [Code]
 - When Does A Spectral Graph Neural Network Fail in Node Classification?, arXIv, [[Paper](https://arxiv.org/abs/2202.07902)], [Code]
 - Graph Representation Learning Beyond Node and Homophily, arXiv, [[Paper](https://arxiv.org/abs/2203.01564)], [[Code](https://github.com/syvail/PairE-Graph-Representation-Learning-Beyond-Node-and-Homophily)]
@@ -63,6 +64,8 @@ If you find anything incorrect, please let me know. Thanks!
 - From Local to Global: Spectral-Inspired Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2209.12054)], [Code]
 - Break the Wall Between Homophily and Heterophily for Graph Representation Learning, arXiv, [[Paper](https://arxiv.org/abs/2210.05382)], [Code]
 - GPNet: Simplifying Graph Neural Networks via Multi-channel Geometric Polynomials, arXiv, [[Paper](https://arxiv.org/abs/2209.15454)], [Code]
+- HP-GMN: Graph Memory Networks for Heterophilous Graphs, arXiv, [[Paper](https://arxiv.org/abs/2210.08195)], [[Code]](https://github.com/junjie-xu/hp-gmn)
+- Improving Your Graph Neural Networks: A High-Frequency Booster, arXiv, [[Paper](https://arxiv.org/abs/2210.08251)], [Code]
 
 
 ### 2021
