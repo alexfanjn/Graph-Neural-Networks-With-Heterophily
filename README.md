@@ -61,6 +61,8 @@ If you find anything incorrect, please let me know. Thanks!
 - Characterizing Graph Datasets for Node Classification: Beyond Homophily-Heterophily Dichotomy, arXiv, [[Paper](https://arxiv.org/abs/2209.06177)], [Code]
 - Make Heterophily Graphs Better Fit GNN: A Graph Rewiring Approach, arXiv, [[Paper](https://arxiv.org/abs/2209.08264)], [Code]
 - From Local to Global: Spectral-Inspired Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2209.12054)], [Code]
+- Break the Wall Between Homophily and Heterophily for Graph Representation Learning, arXiv, [[Paper](https://arxiv.org/abs/2210.05382)], [Code]
+- GPNet: Simplifying Graph Neural Networks via Multi-channel Geometric Polynomials, arXiv, [[Paper](https://arxiv.org/abs/2209.15454)], [Code]
 
 
 ### 2021
