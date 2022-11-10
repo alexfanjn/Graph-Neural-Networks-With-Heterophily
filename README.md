@@ -10,6 +10,29 @@ If you find anything incorrect, please let me know. Thanks!
 
 ## Papers
 
+### 2023
+
+- SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
+- Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
+- The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
+- Wide Graph Neural Network, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=Ih0fKoIUyEh)], [Code]
+- Are Graph Attention Networks Attentive Enough? Rethinking Graph Attention by Capturing Homophily and Heterophily, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=Xk10fyKR8G)], [Code]
+- Node Classification Beyond Homophily: Towards a General Solution, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=kh3JurmKlux)], [Code]
+- From ChebNet to ChebGibbsNet, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=2a5Ru3JtNe0)], [Code]
+- ProtoGNN: Prototype-Assisted Message Passing Framework for Non-Homophilous Graphs, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=LeZ39Gkwbi0)], [Code]
+- Low-Rank Graph Neural Networks Inspired by the Weak-balance Theory in Social Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=ufCQZeAMZzf)], [Code]
+- Can Single-Pass Contrastive Learning Work for Both Homophilic and Heterophilic Graph?, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XE0cIoi-sZ1)], [Code]
+- Graph Contrastive Learning Under Heterophily: Utilizing Graph Filters to Generate Graph Views, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=NzcUQuhEGef)], [Code]
+- GOAT: A Global Transformer on Large-scale Graphs, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=z29R0uMiF3v)], [Code]
+- Ordered GNN: Ordering Message Passing to Deal with Heterophily and Over-smoothing, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=wKPmPBHSnT6)], [Code]
+- Gradient Gating for Deep Multi-Rate Learning on Graphs, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=JpRExTbl1-)], [Code]
+- ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=4fZc_79Lrqs)], [Code]
+- ReD-GCN: Revisit the Depth of Graph Convolutional Network, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=tMg5hKRiW-2)], [Code]
+- Graph Neural Networks as Gradient Flows: Understanding Graph Convolutions via Energy, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=M3GzgrA7U4)], [Code]
+- A Critical Look at Evaluation of GNNs Under Heterophily: Are We Really Making Progress?, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=tJbbQfw-5wv)], [Code]
+- Causally-guided Regularization of Graph Attention improves Generalizability, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=U086TJFWy4p)], [Code]
+- GReTo: Remedying dynamic graph topology-task discordance via target homophily, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=8duT3mi_5n)], [Code]
+
 ### 2022
 
 - Block Modeling-Guided Graph Convolutional Neural Networks, AAAI, [[Paper](https://arxiv.org/abs/2112.13507)], [[Code](https://github.com/hedongxiao-tju/BM-GCN)]
