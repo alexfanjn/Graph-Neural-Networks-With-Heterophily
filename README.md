@@ -61,6 +61,7 @@ If you find anything incorrect, please let me know. Thanks!
 - From Local to Global: Spectral-Inspired Graph Neural Networks, NeurIPS-W, [[Paper](https://arxiv.org/abs/2209.12054)], [[Code]](https://github.com/nhuang37/spectral-inspired-gnn)
 - Complete the Missing Half: Augmenting Aggregation Filtering with Diversification for Graph Convolutional Networks, NeurIPS-W, [[Paper](https://arxiv.org/abs/2008.08844v4)], [Code]
 - Beyond Homophily with Graph Echo State Networks, ESANN, [[Paper](https://arxiv.org/abs/2210.15731)], [Code]
+- Memory-based Message Passing: Decoupling the Message for Propogation from Discrimination, ICASSP, [[Paper](https://arxiv.org/abs/2202.00423)], [[Code]](https://github.com/JC-202/MMP)
 - GSN: A Universal Graph Neural Network Inspired by Spring Network, arXiv, [[Paper](https://arxiv.org/abs/2201.12994)], [Code]
 - GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2201.12741)], [Code]
 - Graph Decoupling Attention Markov Networks for Semi-supervised Graph Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2104.13718)], [Code]
