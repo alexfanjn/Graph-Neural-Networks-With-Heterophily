@@ -96,6 +96,9 @@ If you find anything incorrect, please let me know. Thanks!
 - Revisiting Heterophily in Graph Convolution Networks by Learning Representations Across Topological and Feature Spaces, arXiv, [[Paper](https://arxiv.org/abs/2211.00565v2)], [[Code]](https://github.com/SresthTosniwal17/HETGCN)
 - GLINKX: A Scalable Unified Framework For Homophilous and Heterophilous Graphs, arXiv, [[Paper](https://arxiv.org/abs/2211.00550)], [Code]
 - Clenshaw Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2210.16508)], [Code]
+- Unifying Label-inputted Graph Neural Networks with Deep Equilibrium Models, arXiv, [[Paper](https://arxiv.org/abs/2211.10629)], [[Code]](https://github.com/cf020031308/GQN)
+- Neighborhood Convolutional Network: A New Paradigm of Graph Neural Networks for Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2211.07845)], [Code]
+- Enhancing Intra-class Information Extraction for Heterophilous Graphs: One Neural Architecture Search Approach, arXiv, [[Paper](https://arxiv.org/abs/2211.10990)], [Code]
 
 
 ### 2021
