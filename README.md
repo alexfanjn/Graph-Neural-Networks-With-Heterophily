@@ -12,6 +12,7 @@ If you find anything incorrect, please let me know. Thanks!
 
 ### 2023
 
+- Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -102,6 +103,10 @@ If you find anything incorrect, please let me know. Thanks!
 - Unifying Label-inputted Graph Neural Networks with Deep Equilibrium Models, arXiv, [[Paper](https://arxiv.org/abs/2211.10629)], [[Code]](https://github.com/cf020031308/GQN)
 - Neighborhood Convolutional Network: A New Paradigm of Graph Neural Networks for Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2211.07845)], [Code]
 - Enhancing Intra-class Information Extraction for Heterophilous Graphs: One Neural Architecture Search Approach, arXiv, [[Paper](https://arxiv.org/abs/2211.10990)], [Code]
+- Transductive Kernels for Gaussian Processes on Graphs, arXiv, [[Paper](https://arxiv.org/abs/2211.15322)], [Code]
+- Flip Initial Features: Generalization of Neural Networks for Semi-supervised Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2211.15081v2)], [Code]
+- VR-GNN: Variational Relation Vector Graph Neural Network for Modeling both Homophily and Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2211.14523)], [Code]
+- GREAD: Graph Neural Reaction-Diffusion Equations, arXiv, [[Paper](https://arxiv.org/abs/2211.14208)], [Code]
 
 
 ### 2021
