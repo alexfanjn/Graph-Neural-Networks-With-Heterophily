@@ -55,6 +55,7 @@ If you find anything incorrect, please let me know. Thanks!
 - NCGNN: Node-Level Capsule Graph Neural Network for Semisupervised Classification, TNNLS, [[Paper](https://arxiv.org/abs/2012.03476)], [Code]
 - Beyond Low-pass Filtering: Graph Convolutional Networks with Automatic Filtering, TKDE, [[Paper](https://arxiv.org/abs/2107.04755)], [[Code](https://github.com/nnzhan/AutoGCN)]
 - Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network, IJCAI, [[Paper](https://www.ijcai.org/proceedings/2022/310)], [[Code](https://github.com/zjunet/PathNet)]
+- RAW-GNN: RAndom Walk Aggregation based Graph Neural Network, IJCAI, [[Paper](https://arxiv.org/abs/2206.13953)], [[Code]](https://github.com/jindi-tju/RAWGNN)
 - EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks, NeurIPS, [[Paper](https://arxiv.org/abs/2205.13892)], [Code]
 - Simplified Graph Convolution with Heterophily, NeurIPS, [[Paper](https://arxiv.org/abs/2202.04139)], [Code]
 - Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs, NeurIPS, [[Paper](https://arxiv.org/abs/2202.04579)], [[Code]](https://github.com/twitter-research/neural-sheaf-diffusion)
@@ -63,7 +64,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Complete the Missing Half: Augmenting Aggregation Filtering with Diversification for Graph Convolutional Networks, NeurIPS-W, [[Paper](https://arxiv.org/abs/2008.08844v4)], [Code]
 - Beyond Homophily with Graph Echo State Networks, ESANN, [[Paper](https://arxiv.org/abs/2210.15731)], [Code]
 - Memory-based Message Passing: Decoupling the Message for Propogation from Discrimination, ICASSP, [[Paper](https://arxiv.org/abs/2202.00423)], [[Code]](https://github.com/JC-202/MMP)
-- Label-Wise Message Passing Graph Neural Network on Heterophilic Graphs, LoG, [[Paper](https://arxiv.org/abs/2110.08128)], [Code]
+- Label-Wise Message Passing Graph Neural Network on Heterophilic Graphs, LoG, [[Paper](https://arxiv.org/abs/2110.08128)], [[Code]](https://github.com/EnyanDai/LWGCN)
 - Leave Graphs Alone: Addressing Over-Squashing without Rewiring, LoG, [[Paper](https://openreview.net/forum?id=vEbUaN9Z2V8)], [Code]
 - Global-Local Graph Neural Networks for Node-Classification, LoG, [[Paper](https://openreview.net/forum?id=YCgwkDo56q)], [Code]
 - GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks, LoG, [[Paper](https://arxiv.org/abs/2201.12741)], [Code]
@@ -84,7 +85,6 @@ If you find anything incorrect, please let me know. Thanks!
 - Restructuring Graph for Higher Homophily via Learnable Spectral Clustering, arXiv, [[Paper](https://arxiv.org/abs/2206.02386)], [Code]
 - Decoupled Self-supervised Learning for Non-Homophilous Graphs, arXiv, [[Paper](https://arxiv.org/abs/2206.03601)], [Code]
 - Graph Neural Networks as Gradient Flows, arXiv, [[Paper](https://arxiv.org/abs/2206.10991)], [Code]
-- RAW-GNN: RAndom Walk Aggregation based Graph Neural Network, arXiv, [[Paper](https://arxiv.org/abs/2206.13953)], [Code]
 - What Do Graph Convolutional Neural Networks Learn?, arXiv, [[Paper](https://arxiv.org/abs/2207.01839)], [Code]
 - Deformable Graph Transformer, arXiv, [[Paper](https://arxiv.org/abs/2206.14337)], [Code]
 - Demystifying Graph Convolution with a Simple Concatenation, arXiv, [[Paper](https://arxiv.org/abs/2207.12931)], [Code]
