@@ -107,6 +107,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Flip Initial Features: Generalization of Neural Networks for Semi-supervised Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2211.15081v2)], [Code]
 - VR-GNN: Variational Relation Vector Graph Neural Network for Modeling both Homophily and Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2211.14523)], [Code]
 - GREAD: Graph Neural Reaction-Diffusion Equations, arXiv, [[Paper](https://arxiv.org/abs/2211.14208)], [Code]
+- Node-oriented Spectral Filtering for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2212.03654)], [Code]
 
 
 ### 2021
