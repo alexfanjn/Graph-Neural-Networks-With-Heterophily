@@ -13,6 +13,7 @@ If you find anything incorrect, please let me know. Thanks!
 ### 2023
 
 - Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
+- 2-hop Neighbor Class Similarity (2NCS): A graph structural metric indicative of graph neural network performance, AAAI-W, [[Paper](https://arxiv.org/abs/2212.13202)], [Code]
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -33,6 +34,8 @@ If you find anything incorrect, please let me know. Thanks!
 - A Critical Look at Evaluation of GNNs Under Heterophily: Are We Really Making Progress?, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=tJbbQfw-5wv)], [Code]
 - Causally-guided Regularization of Graph Attention improves Generalizability, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=U086TJFWy4p)], [Code]
 - GReTo: Remedying dynamic graph topology-task discordance via target homophily, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=8duT3mi_5n)], [Code]
+- Leave Graphs Alone: Addressing Over-Squashing without Rewiring, arXiv, [[Paper](https://arxiv.org/abs/2212.06538)], [Code]
+- Statistical Mechanics of Generalization In Graph Convolution Networks, arXiv, [[Paper](https://arxiv.org/abs/2212.13069)], [Code]
 
 ### 2022
 
@@ -68,6 +71,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Leave Graphs Alone: Addressing Over-Squashing without Rewiring, LoG, [[Paper](https://openreview.net/forum?id=vEbUaN9Z2V8)], [Code]
 - Global-Local Graph Neural Networks for Node-Classification, LoG, [[Paper](https://openreview.net/forum?id=YCgwkDo56q)], [Code]
 - GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks, LoG, [[Paper](https://arxiv.org/abs/2201.12741)], [Code]
+- Unsupervised Network Embedding Beyond Homophily, TMLR, [[Paper](https://arxiv.org/abs/2203.10866v3)], [[Code](https://github.com/zhiqiangzhongddu/Selene)]
 - GSN: A Universal Graph Neural Network Inspired by Spring Network, arXiv, [[Paper](https://arxiv.org/abs/2201.12994)], [Code]
 - Graph Decoupling Attention Markov Networks for Semi-supervised Graph Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2104.13718)], [Code]
 - Relational Graph Neural Network Design via Progressive Neural Architecture Search, arXiv, [[Paper](https://arxiv.org/abs/2105.14490)], [Code]
@@ -76,7 +80,6 @@ If you find anything incorrect, please let me know. Thanks!
 - When Does A Spectral Graph Neural Network Fail in Node Classification?, arXIv, [[Paper](https://arxiv.org/abs/2202.07902)], [Code]
 - Graph Representation Learning Beyond Node and Homophily, arXiv, [[Paper](https://arxiv.org/abs/2203.01564)], [[Code](https://github.com/syvail/PairE-Graph-Representation-Learning-Beyond-Node-and-Homophily)]
 - Incorporating Heterophily into Graph Neural Networks for Graph Classification, arXiv, [[Paper](https://arxiv.org/abs/2203.07678)], [[Code](https://github.com/yeweiysh/IHGNN)]
-- Unsupervised Heterophilous Network Embedding via r-Ego Network Discrimination, arXiv, [[Paper](https://arxiv.org/abs/2203.10866)], [[Code](https://github.com/zhiqiangzhongddu/Selene)]
 - Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2203.11200)], [[Code]](https://github.com/JC-202/CAGNN)
 - Augmentation-Free Graph Contrastive Learning, arXiv, [[Paper](https://arxiv.org/abs/2204.04874)], [Code]
 - Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation, arXiv, [[Paper](https://arxiv.org/abs/2205.09389)], [Code]
