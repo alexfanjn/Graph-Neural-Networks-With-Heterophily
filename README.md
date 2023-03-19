@@ -36,6 +36,10 @@ If you find anything incorrect, please let me know. Thanks!
 - GReTo: Remedying dynamic graph topology-task discordance via target homophily, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=8duT3mi_5n)], [Code]
 - Leave Graphs Alone: Addressing Over-Squashing without Rewiring, arXiv, [[Paper](https://arxiv.org/abs/2212.06538)], [Code]
 - Statistical Mechanics of Generalization In Graph Convolution Networks, arXiv, [[Paper](https://arxiv.org/abs/2212.13069)], [Code]
+- Semi-Supervised Classification with Graph Convolutional Kernel Machines, arXiv, [[Paper](https://arxiv.org/abs/2301.13764)], [Code]
+- A Graph Neural Network with Negative Message Passing for Graph Coloring, arXiv, [[Paper](https://arxiv.org/abs/2301.11164)], [Code]
+- Neighborhood Homophily-Guided Graph Convolutional Network, arXiv, [[Paper](https://arxiv.org/abs/2301.09851)], [Code]
+- Is Signed Message Essential for Graph Neural Networks?, arXiv, [[Paper](https://arxiv.org/abs/2301.08918)], [Code]
 
 ### 2022
 
