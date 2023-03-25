@@ -40,6 +40,8 @@ If you find anything incorrect, please let me know. Thanks!
 - A Graph Neural Network with Negative Message Passing for Graph Coloring, arXiv, [[Paper](https://arxiv.org/abs/2301.11164)], [Code]
 - Neighborhood Homophily-Guided Graph Convolutional Network, arXiv, [[Paper](https://arxiv.org/abs/2301.09851)], [Code]
 - Is Signed Message Essential for Graph Neural Networks?, arXiv, [[Paper](https://arxiv.org/abs/2301.08918)], [Code]
+- Attending to Graph Transformers, arXiv, [[Paper](https://arxiv.org/abs/2302.04181)], [[Code](https://github.com/luis-mueller/probing-graph-transformers)]
+- Heterophily-Aware Graph Attention Network, arXiv, [[Paper](https://arxiv.org/abs/2302.03228)], [Code]
 
 ### 2022
 
