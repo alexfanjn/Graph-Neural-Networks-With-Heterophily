@@ -23,7 +23,6 @@ If you find anything incorrect, please let me know. Thanks!
 - Homophily-oriented Heterogeneous Graph Rewiring, WWW, [[Paper](https://arxiv.org/abs/2302.06299)], [Code]
 - Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs, WWW, [[Paper](https://arxiv.org/abs/2302.12357)], [Code]
 - Label Information Enhanced Fraud Detection against Low Homophily in Graphs, WWW,  [[Paper](https://arxiv.org/abs/2302.10407)], [[Code](https://github.com/Orion-wyc/GAGA)]
-
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -47,6 +46,8 @@ If you find anything incorrect, please let me know. Thanks!
 - Is Signed Message Essential for Graph Neural Networks?, arXiv, [[Paper](https://arxiv.org/abs/2301.08918)], [Code]
 - Attending to Graph Transformers, arXiv, [[Paper](https://arxiv.org/abs/2302.04181)], [[Code](https://github.com/luis-mueller/probing-graph-transformers)]
 - Heterophily-Aware Graph Attention Network, arXiv, [[Paper](https://arxiv.org/abs/2302.03228)], [Code]
+- Steering Graph Neural Networks with Pinning Control, arXiv, [[Paper](https://arxiv.org/abs/2303.01265)], [Code]
+- Contrastive Learning under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2303.06344)], [Code]
 
 ### 2022
 
