@@ -48,6 +48,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Heterophily-Aware Graph Attention Network, arXiv, [[Paper](https://arxiv.org/abs/2302.03228)], [Code]
 - Steering Graph Neural Networks with Pinning Control, arXiv, [[Paper](https://arxiv.org/abs/2303.01265)], [Code]
 - Contrastive Learning under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2303.06344)], [Code]
+- Graph Positional Encoding via Random Feature Propagation, arXiv, [[Paper](https://arxiv.org/abs/2303.02918)], [Code]
 
 ### 2022
 
