@@ -84,6 +84,8 @@ If you find anything incorrect, please let me know. Thanks!
 - Leave Graphs Alone: Addressing Over-Squashing without Rewiring, LoG, [[Paper](https://openreview.net/forum?id=vEbUaN9Z2V8)], [Code]
 - Global-Local Graph Neural Networks for Node-Classification, LoG, [[Paper](https://openreview.net/forum?id=YCgwkDo56q)], [Code]
 - GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks, LoG, [[Paper](https://arxiv.org/abs/2201.12741)], [Code]
+- DiffWire: Inductive Graph Rewiring via the Lovász Bound, LoG, [[Paper](https://proceedings.mlr.press/v198/arnaiz-rodri-guez22a.html)], [[Code]](https://github.com/AdrianArnaiz/DiffWire)
+- ***[Tutorial]*** Graph Rewiring: From Theory to Applications in Fairness, LoG, [[Link]](https://ellisalicante.org/tutorials/GraphRewiring), [[Code]](https://github.com/ellisalicante/GraphRewiring-Tutorial)
 - Unsupervised Network Embedding Beyond Homophily, TMLR, [[Paper](https://arxiv.org/abs/2203.10866v3)], [[Code](https://github.com/zhiqiangzhongddu/Selene)]
 - GSN: A Universal Graph Neural Network Inspired by Spring Network, arXiv, [[Paper](https://arxiv.org/abs/2201.12994)], [Code]
 - Graph Decoupling Attention Markov Networks for Semi-supervised Graph Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2104.13718)], [Code]
