@@ -11,7 +11,6 @@ If you find anything incorrect, please let me know. Thanks!
 ## Papers
 
 ### 2023
-- Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection, arXiv, [[Paper](https://arxiv.org/abs/2306.00006)], [[Code](https://github.com/mala-lab/TAM-master/)]
 - Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
 - 2-hop Neighbor Class Similarity (2NCS): A graph structural metric indicative of graph neural network performance, AAAI-W, [[Paper](https://arxiv.org/abs/2212.13202)], [Code]
 - Ordered GNN: Ordering Message Passing to Deal with Heterophily and Over-smoothing, ICLR, [[Paper](https://openreview.net/forum?id=wKPmPBHSnT6)], [[Code](https://github.com/LUMIA-Group/OrderedGNN)]
@@ -51,6 +50,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Steering Graph Neural Networks with Pinning Control, arXiv, [[Paper](https://arxiv.org/abs/2303.01265)], [Code]
 - Contrastive Learning under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2303.06344)], [Code]
 - Graph Positional Encoding via Random Feature Propagation, arXiv, [[Paper](https://arxiv.org/abs/2303.02918)], [Code]
+- Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection, arXiv, [[Paper](https://arxiv.org/abs/2306.00006)], [[Code](https://github.com/mala-lab/TAM-master/)]
 
 ### 2022
 
@@ -58,7 +58,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily, AAAI, [[Paper](https://arxiv.org/abs/2112.13562)], [[Code](https://github.com/hedongxiao-tju/HOG-GCN)]
 - Deformable Graph Convolutional Networks, AAAI, [[Paper](https://arxiv.org/abs/2112.14438)], [Code]
 - Graph Pointer Neural Networks, AAAI, [[Paper](https://arxiv.org/abs/2110.00973)], [Code]
-- Is Homophily A Necessity for Graph Neural Networks?, ICLR, [[Paper](https://arxiv.org/abs/2106.06134)], [Code]
+- Is Homophily A Necessity for Graph Neural Networks?, ICLR, [[Paper](https://arxiv.org/abs/2106.06134)], [[Code]](https://openreview.net/attachment?id=ucASPPD9GKN&name=supplementary_material)
 - Designing the Topology of Graph Neural Networks: A Novel Feature Fusion Perspective, WWW, [[Paper](https://arxiv.org/abs/2112.14531)], [[Code](https://github.com/AutoML-Research/F2GNN)]
 - GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily, WWW, [[Paper](https://arxiv.org/abs/2110.15777)], [[Code](https://github.com/xzh0u/gbk-gnn)]
 - Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily, WWW, [[Paper](https://arxiv.org/abs/2203.10280)], [Code]
