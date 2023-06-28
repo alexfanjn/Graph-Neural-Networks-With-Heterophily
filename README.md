@@ -24,6 +24,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs, WWW, [[Paper](https://arxiv.org/abs/2302.12357)], [Code]
 - Label Information Enhanced Fraud Detection against Low Homophily in Graphs, WWW,  [[Paper](https://arxiv.org/abs/2302.10407)], [[Code](https://github.com/Orion-wyc/GAGA)]
 - SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization, WWW,  [[Paper](https://arxiv.org/abs/2303.09778)], [[Code](https://github.com/RingBDStack/SE-GSL)]
+- GCNH: A Simple Method For Representation Learning On Heterophilous Graphs, IJCNN, [[Paper](https://arxiv.org/abs/2304.10896)], [[Code](https://github.com/SmartData-Polito/GCNH)]
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
