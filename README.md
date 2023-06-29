@@ -12,6 +12,7 @@ If you find anything incorrect, please let me know. Thanks!
 
 ### 2023
 - Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
+- Restructuring Graph for Higher Homophily via Adaptive Spectral Clustering, AAAI, [[Paper](https://arxiv.org/abs/2206.02386)], [[Code](https://github.com/seanli3/graph_restructure)]
 - 2-hop Neighbor Class Similarity (2NCS): A graph structural metric indicative of graph neural network performance, AAAI-W, [[Paper](https://arxiv.org/abs/2212.13202)], [Code]
 - Ordered GNN: Ordering Message Passing to Deal with Heterophily and Over-smoothing, ICLR, [[Paper](https://openreview.net/forum?id=wKPmPBHSnT6)], [[Code](https://github.com/LUMIA-Group/OrderedGNN)]
 - Gradient Gating for Deep Multi-Rate Learning on Graphs, ICLR, [[Paper](https://openreview.net/forum?id=JpRExTbl1-)], [Code]
@@ -25,6 +26,9 @@ If you find anything incorrect, please let me know. Thanks!
 - Label Information Enhanced Fraud Detection against Low Homophily in Graphs, WWW,  [[Paper](https://arxiv.org/abs/2302.10407)], [[Code](https://github.com/Orion-wyc/GAGA)]
 - SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization, WWW,  [[Paper](https://arxiv.org/abs/2303.09778)], [[Code](https://github.com/RingBDStack/SE-GSL)]
 - GCNH: A Simple Method For Representation Learning On Heterophilous Graphs, IJCNN, [[Paper](https://arxiv.org/abs/2304.10896)], [[Code](https://github.com/SmartData-Polito/GCNH)]
+- Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily, TNNLS, [[Paper](https://arxiv.org/abs/2203.11200)], [[Code]](https://github.com/JC-202/CAGNN)
+- Multi-View Graph Representation Learning Beyond Homophily, TKDD, [[Paper](https://arxiv.org/abs/2304.07509)], [[Code]](https://github.com/G-AILab/MVGE)
+- Spatial Heterophily Aware Graph Neural Networks, KDD, [[Paper](https://arxiv.org/abs/2306.12139)], [[Code]](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/SHGNN)
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -98,7 +102,6 @@ If you find anything incorrect, please let me know. Thanks!
 - When Does A Spectral Graph Neural Network Fail in Node Classification?, arXIv, [[Paper](https://arxiv.org/abs/2202.07902)], [Code]
 - Graph Representation Learning Beyond Node and Homophily, arXiv, [[Paper](https://arxiv.org/abs/2203.01564)], [[Code](https://github.com/syvail/PairE-Graph-Representation-Learning-Beyond-Node-and-Homophily)]
 - Incorporating Heterophily into Graph Neural Networks for Graph Classification, arXiv, [[Paper](https://arxiv.org/abs/2203.07678)], [[Code](https://github.com/yeweiysh/IHGNN)]
-- Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2203.11200)], [[Code]](https://github.com/JC-202/CAGNN)
 - Augmentation-Free Graph Contrastive Learning, arXiv, [[Paper](https://arxiv.org/abs/2204.04874)], [Code]
 - Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation, arXiv, [[Paper](https://arxiv.org/abs/2205.09389)], [Code]
 - Revisiting the Role of Heterophily in Graph Representation Learning: An Edge Classification Perspective, arXiv, [[Paper](https://arxiv.org/abs/2205.11322)], [Code]
