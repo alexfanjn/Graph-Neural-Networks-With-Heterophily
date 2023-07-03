@@ -56,6 +56,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Contrastive Learning under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2303.06344)], [Code]
 - Graph Positional Encoding via Random Feature Propagation, arXiv, [[Paper](https://arxiv.org/abs/2303.02918)], [Code]
 - Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection, arXiv, [[Paper](https://arxiv.org/abs/2306.00006)], [[Code](https://github.com/mala-lab/TAM-master/)]
+- When Do Graph Neural Networks Help with Node Classification: Investigating the Homophily Principle on Node Distinguishability, arXiv, [[Paper](https://arxiv.org/abs/2304.14274)], [Code]
 
 ### 2022
 
@@ -94,6 +95,7 @@ If you find anything incorrect, please let me know. Thanks!
 - DiffWire: Inductive Graph Rewiring via the Lovász Bound, LoG, [[Paper](https://proceedings.mlr.press/v198/arnaiz-rodri-guez22a.html)], [[Code]](https://github.com/AdrianArnaiz/DiffWire)
 - ***[Tutorial]*** Graph Rewiring: From Theory to Applications in Fairness, LoG, [[Link]](https://ellisalicante.org/tutorials/GraphRewiring), [[Code]](https://github.com/ellisalicante/GraphRewiring-Tutorial)
 - Unsupervised Network Embedding Beyond Homophily, TMLR, [[Paper](https://arxiv.org/abs/2203.10866v3)], [[Code](https://github.com/zhiqiangzhongddu/Selene)]
+- Improving Your Graph Neural Networks: A High-Frequency Booster, ICDM-W, [[Paper](https://arxiv.org/abs/2210.08251)], [[Code]](https://github.com/sajqavril/Complement-Laplacian-Regularization)
 - GSN: A Universal Graph Neural Network Inspired by Spring Network, arXiv, [[Paper](https://arxiv.org/abs/2201.12994)], [Code]
 - Graph Decoupling Attention Markov Networks for Semi-supervised Graph Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2104.13718)], [Code]
 - Relational Graph Neural Network Design via Progressive Neural Architecture Search, arXiv, [[Paper](https://arxiv.org/abs/2105.14490)], [Code]
@@ -119,7 +121,6 @@ If you find anything incorrect, please let me know. Thanks!
 - Break the Wall Between Homophily and Heterophily for Graph Representation Learning, arXiv, [[Paper](https://arxiv.org/abs/2210.05382)], [Code]
 - GPNet: Simplifying Graph Neural Networks via Multi-channel Geometric Polynomials, arXiv, [[Paper](https://arxiv.org/abs/2209.15454)], [Code]
 - HP-GMN: Graph Memory Networks for Heterophilous Graphs, arXiv, [[Paper](https://arxiv.org/abs/2210.08195)], [[Code]](https://github.com/junjie-xu/hp-gmn)
-- Improving Your Graph Neural Networks: A High-Frequency Booster, arXiv, [[Paper](https://arxiv.org/abs/2210.08251)], [Code]
 - When Do We Need GNN for Node Classification?, arXiv, [[Paper](https://arxiv.org/abs/2210.16979)], [Code]
 - Revisiting Heterophily in Graph Convolution Networks by Learning Representations Across Topological and Feature Spaces, arXiv, [[Paper](https://arxiv.org/abs/2211.00565v2)], [[Code]](https://github.com/SresthTosniwal17/HETGCN)
 - GLINKX: A Scalable Unified Framework For Homophilous and Heterophilous Graphs, arXiv, [[Paper](https://arxiv.org/abs/2211.00550)], [Code]
