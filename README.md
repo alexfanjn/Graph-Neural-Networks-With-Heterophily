@@ -29,6 +29,9 @@ If you find anything incorrect, please let me know. Thanks!
 - Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily, TNNLS, [[Paper](https://arxiv.org/abs/2203.11200)], [[Code]](https://github.com/JC-202/CAGNN)
 - Multi-View Graph Representation Learning Beyond Homophily, TKDD, [[Paper](https://arxiv.org/abs/2304.07509)], [[Code]](https://github.com/G-AILab/MVGE)
 - Spatial Heterophily Aware Graph Neural Networks, KDD, [[Paper](https://arxiv.org/abs/2306.12139)], [[Code]](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/SHGNN)
+- Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs, ICML, [[Paper](https://arxiv.org/abs/2306.07608)], [[Code]](https://github.com/zyzisastudyreallyhardguy/GOAL-Graph-Complementary-Learning)
+- Contrastive Learning Meets Homophily: Two Birds with One Stone, ICML, [[Paper](https://openreview.net/forum?id=YIcb3pR8ld)], [Code]
+- Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering, ICML, [[Paper](https://arxiv.org/abs/2305.02931)], [[Code]](https://github.com/Panern/DGCN)
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
