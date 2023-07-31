@@ -36,6 +36,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Towards Deep Attention in Graph Neural Networks: Problems and Remedies, ICML, [[Paper](https://arxiv.org/abs/2306.02376)], [[Code]](https://github.com/syleeheal/AERO-GNN)
 - Half-Hop: A graph upsampling approach for slowing down message passing, ICML, [[Paper](https://openreview.net/forum?id=lXczFIwQkv)], [Code]
 - ***[Survey Paper]*** Heterophily and Graph Neural Networks: Past, Present and Future, Data Engineering, [[Paper](http://sites.computer.org/debull/A23june/p10.pdf)], [Code]
+- Homophily-Enhanced Self-Supervision for Graph Structure Learning: Insights and Directions, TNNLS, [[Paper](https://ieeexplore.ieee.org/abstract/document/10106110)], [[Code]](https://github.com/LirongWu/Homophily-Enhanced-Self-supervision)
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -65,6 +66,8 @@ If you find anything incorrect, please let me know. Thanks!
 - When Do Graph Neural Networks Help with Node Classification: Investigating the Homophily Principle on Node Distinguishability, arXiv, [[Paper](https://arxiv.org/abs/2304.14274)], [Code]
 - GPatcher: A Simple and Adaptive MLP Model for Alleviating Graph Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2306.14340)], [Code]
 - PathMLP: Smooth Path Towards High-order Homophily, arXiv, [[Paper](https://arxiv.org/abs/2306.13532)], [Code]
+- Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?, arXiv, [[Paper](https://arxiv.org/abs/2306.01323)], [Code]
+- Edge Directionality Improves Learning on Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2305.10498)], [Code]
 
 ### 2022
 
