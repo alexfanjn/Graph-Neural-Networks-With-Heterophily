@@ -37,6 +37,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Half-Hop: A graph upsampling approach for slowing down message passing, ICML, [[Paper](https://openreview.net/forum?id=lXczFIwQkv)], [Code]
 - ***[Survey Paper]*** Heterophily and Graph Neural Networks: Past, Present and Future, Data Engineering, [[Paper](http://sites.computer.org/debull/A23june/p10.pdf)], [Code]
 - Homophily-Enhanced Self-Supervision for Graph Structure Learning: Insights and Directions, TNNLS, [[Paper](https://ieeexplore.ieee.org/abstract/document/10106110)], [[Code]](https://github.com/LirongWu/Homophily-Enhanced-Self-supervision)
+- LSGNN: Towards General Graph Neural Network in Node Classification by Local Similarity, IJCAI, [[Paper](https://arxiv.org/abs/2305.04225)], [[Code]](https://github.com/draym28/LSGNN)
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -67,6 +68,9 @@ If you find anything incorrect, please let me know. Thanks!
 - GPatcher: A Simple and Adaptive MLP Model for Alleviating Graph Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2306.14340)], [Code]
 - PathMLP: Smooth Path Towards High-order Homophily, arXiv, [[Paper](https://arxiv.org/abs/2306.13532)], [Code]
 - Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?, arXiv, [[Paper](https://arxiv.org/abs/2306.01323)], [Code]
+- Edge Directionality Improves Learning on Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2305.10498)], [Code]
+- Addressing Heterophily in Node Classification with Graph Echo State Networks, arXiv, [[Paper](https://arxiv.org/abs/2305.08233)], [[Code](https://github.com/dtortorella/addressing-heterophily-gesn)]
+- SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation, arXiv, [[Paper](https://arxiv.org/abs/2305.09958)], [Code]
 - Edge Directionality Improves Learning on Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2305.10498)], [Code]
 
 ### 2022
