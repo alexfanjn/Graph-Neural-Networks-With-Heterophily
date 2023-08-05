@@ -38,6 +38,7 @@ If you find anything incorrect, please let me know. Thanks!
 - ***[Survey Paper]*** Heterophily and Graph Neural Networks: Past, Present and Future, Data Engineering, [[Paper](http://sites.computer.org/debull/A23june/p10.pdf)], [Code]
 - Homophily-Enhanced Self-Supervision for Graph Structure Learning: Insights and Directions, TNNLS, [[Paper](https://ieeexplore.ieee.org/abstract/document/10106110)], [[Code]](https://github.com/LirongWu/Homophily-Enhanced-Self-supervision)
 - LSGNN: Towards General Graph Neural Network in Node Classification by Local Similarity, IJCAI, [[Paper](https://arxiv.org/abs/2305.04225)], [[Code]](https://github.com/draym28/LSGNN)
+- Graph Neural Convection-Diffusion with Heterophily, IJCAI, [[Paper](https://arxiv.org/abs/2305.16780)], [[Code]](https://github.com/zknus/Graph-Diffusion-CDE)
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -72,6 +73,9 @@ If you find anything incorrect, please let me know. Thanks!
 - Addressing Heterophily in Node Classification with Graph Echo State Networks, arXiv, [[Paper](https://arxiv.org/abs/2305.08233)], [[Code](https://github.com/dtortorella/addressing-heterophily-gesn)]
 - SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation, arXiv, [[Paper](https://arxiv.org/abs/2305.09958)], [Code]
 - Edge Directionality Improves Learning on Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2305.10498)], [Code]
+- A Fractional Graph Laplacian Approach to Oversmoothing, arXiv, [[Paper](https://arxiv.org/abs/2305.13084)], [[Code](https://github.com/RPaolino/fLode)]
+- From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module, arXiv, [[Paper](https://arxiv.org/abs/2305.16174)], [Code]
+- Self-attention Dual Embedding for Graphs with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2305.18385)], [Code]
 
 ### 2022
 
