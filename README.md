@@ -54,7 +54,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Graph Neural Networks as Gradient Flows: Understanding Graph Convolutions via Energy, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=M3GzgrA7U4)], [Code]
 - Causally-guided Regularization of Graph Attention improves Generalizability, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=U086TJFWy4p)], [Code]
 - GReTo: Remedying dynamic graph topology-task discordance via target homophily, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=8duT3mi_5n)], [Code]
-- Statistical Mechanics of Generalization In Graph Convolution Networks, arXiv, [[Paper](https://arxiv.org/abs/2212.13069)], [Code]
+- Homophily modulates double descent generalization in graph convolution networks, arXiv, [[Paper](https://arxiv.org/abs/2212.13069v2)], [Code]
 - Semi-Supervised Classification with Graph Convolutional Kernel Machines, arXiv, [[Paper](https://arxiv.org/abs/2301.13764)], [Code]
 - A Graph Neural Network with Negative Message Passing for Graph Coloring, arXiv, [[Paper](https://arxiv.org/abs/2301.11164)], [Code]
 - Neighborhood Homophily-Guided Graph Convolutional Network, arXiv, [[Paper](https://arxiv.org/abs/2301.09851)], [Code]
@@ -76,6 +76,10 @@ If you find anything incorrect, please let me know. Thanks!
 - A Fractional Graph Laplacian Approach to Oversmoothing, arXiv, [[Paper](https://arxiv.org/abs/2305.13084)], [[Code](https://github.com/RPaolino/fLode)]
 - From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module, arXiv, [[Paper](https://arxiv.org/abs/2305.16174)], [Code]
 - Self-attention Dual Embedding for Graphs with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2305.18385)], [Code]
+- Explaining and Adapting Graph Conditional Shift, arXiv, [[Paper](https://arxiv.org/abs/2306.03256)], [Code]
+- Permutation Equivariant Graph Framelets for Heterophilous Graph Learning, arXiv, [[Paper](https://arxiv.org/abs/2306.04265)], [Code]
+- On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2306.05557)], [Code]
+- Heterophily-aware Social Bot Detection with Supervised Contrastive Learning, arXiv, [[Paper](https://arxiv.org/abs/2306.07478)], [Code]
 
 ### 2022
 
