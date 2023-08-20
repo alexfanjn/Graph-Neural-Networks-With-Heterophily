@@ -39,6 +39,8 @@ If you find anything incorrect, please let me know. Thanks!
 - Homophily-Enhanced Self-Supervision for Graph Structure Learning: Insights and Directions, TNNLS, [[Paper](https://ieeexplore.ieee.org/abstract/document/10106110)], [[Code]](https://github.com/LirongWu/Homophily-Enhanced-Self-supervision)
 - LSGNN: Towards General Graph Neural Network in Node Classification by Local Similarity, IJCAI, [[Paper](https://arxiv.org/abs/2305.04225)], [[Code]](https://github.com/draym28/LSGNN)
 - Graph Neural Convection-Diffusion with Heterophily, IJCAI, [[Paper](https://arxiv.org/abs/2305.16780)], [[Code]](https://github.com/zknus/Graph-Diffusion-CDE)
+- Taming over-smoothing representation on heterophilic graphs, Inf. Sci., [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025523010484)], [[Code]](https://github.com/KaiGuo20/LE-GNN)
+- Homophily-enhanced Structure Learning for Graph Clustering, CIKM, [[Paper](https://arxiv.org/abs/2308.05309)], [[Code]](https://github.com/galogm/HoLe)
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -72,7 +74,6 @@ If you find anything incorrect, please let me know. Thanks!
 - Edge Directionality Improves Learning on Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2305.10498)], [Code]
 - Addressing Heterophily in Node Classification with Graph Echo State Networks, arXiv, [[Paper](https://arxiv.org/abs/2305.08233)], [[Code](https://github.com/dtortorella/addressing-heterophily-gesn)]
 - SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation, arXiv, [[Paper](https://arxiv.org/abs/2305.09958)], [Code]
-- Edge Directionality Improves Learning on Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2305.10498)], [Code]
 - A Fractional Graph Laplacian Approach to Oversmoothing, arXiv, [[Paper](https://arxiv.org/abs/2305.13084)], [[Code](https://github.com/RPaolino/fLode)]
 - From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module, arXiv, [[Paper](https://arxiv.org/abs/2305.16174)], [Code]
 - Self-attention Dual Embedding for Graphs with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2305.18385)], [Code]
@@ -80,6 +81,8 @@ If you find anything incorrect, please let me know. Thanks!
 - Permutation Equivariant Graph Framelets for Heterophilous Graph Learning, arXiv, [[Paper](https://arxiv.org/abs/2306.04265)], [Code]
 - On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2306.05557)], [Code]
 - Heterophily-aware Social Bot Detection with Supervised Contrastive Learning, arXiv, [[Paper](https://arxiv.org/abs/2306.07478)], [Code]
+- Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters, arXiv, [[Paper](https://arxiv.org/abs/2306.16976)], [Code]
+- Imbalanced Node Classification Beyond Homophilic Assumption, arXiv, [[Paper](https://arxiv.org/abs/2304.14635)], [Code]
 
 ### 2022
 
