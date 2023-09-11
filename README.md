@@ -35,12 +35,14 @@ If you find anything incorrect, please let me know. Thanks!
 - GOAT: A Global Transformer on Large-scale Graphs, ICML, [[Paper](https://openreview.net/forum?id=z29R0uMiF3v)], [[Code]](https://github.com/devnkong/GOAT)
 - Towards Deep Attention in Graph Neural Networks: Problems and Remedies, ICML, [[Paper](https://arxiv.org/abs/2306.02376)], [[Code]](https://github.com/syleeheal/AERO-GNN)
 - Half-Hop: A graph upsampling approach for slowing down message passing, ICML, [[Paper](https://openreview.net/forum?id=lXczFIwQkv)], [Code]
+- Evolving Computation Graphs, ICML-W, [[Paper](https://arxiv.org/abs/2306.12943)], [Code]
 - ***[Survey Paper]*** Heterophily and Graph Neural Networks: Past, Present and Future, Data Engineering, [[Paper](http://sites.computer.org/debull/A23june/p10.pdf)], [Code]
 - Homophily-Enhanced Self-Supervision for Graph Structure Learning: Insights and Directions, TNNLS, [[Paper](https://ieeexplore.ieee.org/abstract/document/10106110)], [[Code]](https://github.com/LirongWu/Homophily-Enhanced-Self-supervision)
 - LSGNN: Towards General Graph Neural Network in Node Classification by Local Similarity, IJCAI, [[Paper](https://arxiv.org/abs/2305.04225)], [[Code]](https://github.com/draym28/LSGNN)
 - Graph Neural Convection-Diffusion with Heterophily, IJCAI, [[Paper](https://arxiv.org/abs/2305.16780)], [[Code]](https://github.com/zknus/Graph-Diffusion-CDE)
 - Taming over-smoothing representation on heterophilic graphs, Inf. Sci., [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025523010484)], [[Code]](https://github.com/KaiGuo20/LE-GNN)
 - Homophily-enhanced Structure Learning for Graph Clustering, CIKM, [[Paper](https://arxiv.org/abs/2308.05309)], [[Code]](https://github.com/galogm/HoLe)
+- Signed attention based graph neural network for graphs with heterophily, Neurocomputing, [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231223008548)], [Code]
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -59,7 +61,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Homophily modulates double descent generalization in graph convolution networks, arXiv, [[Paper](https://arxiv.org/abs/2212.13069v2)], [Code]
 - Semi-Supervised Classification with Graph Convolutional Kernel Machines, arXiv, [[Paper](https://arxiv.org/abs/2301.13764)], [Code]
 - A Graph Neural Network with Negative Message Passing for Graph Coloring, arXiv, [[Paper](https://arxiv.org/abs/2301.11164)], [Code]
-- Neighborhood Homophily-Guided Graph Convolutional Network, arXiv, [[Paper](https://arxiv.org/abs/2301.09851)], [Code]
+- Neighborhood Homophily-based Graph Convolutional Network, arXiv, [[Paper](https://arxiv.org/abs/2301.09851v2)], [Code]
 - Is Signed Message Essential for Graph Neural Networks?, arXiv, [[Paper](https://arxiv.org/abs/2301.08918)], [Code]
 - Attending to Graph Transformers, arXiv, [[Paper](https://arxiv.org/abs/2302.04181)], [[Code](https://github.com/luis-mueller/probing-graph-transformers)]
 - Heterophily-Aware Graph Attention Network, arXiv, [[Paper](https://arxiv.org/abs/2302.03228)], [Code]
@@ -83,6 +85,9 @@ If you find anything incorrect, please let me know. Thanks!
 - Heterophily-aware Social Bot Detection with Supervised Contrastive Learning, arXiv, [[Paper](https://arxiv.org/abs/2306.07478)], [Code]
 - Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters, arXiv, [[Paper](https://arxiv.org/abs/2306.16976)], [Code]
 - Imbalanced Node Classification Beyond Homophilic Assumption, arXiv, [[Paper](https://arxiv.org/abs/2304.14635)], [Code]
+- HOFA: Twitter Bot Detection with Homophily-Oriented Augmentation and Frequency Adaptive Attention, arXiv, [[Paper](https://arxiv.org/abs/2306.12870)], [Code]
+- Self-supervised Learning and Graph Classification under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2306.08469)], [Code]
+- Heterophily-aware Social Bot Detection with Supervised Contrastive Learning, arXiv, [[Paper](https://arxiv.org/abs/2306.07478)], [Code]
 
 ### 2022
 
