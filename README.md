@@ -29,6 +29,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily, TNNLS, [[Paper](https://arxiv.org/abs/2203.11200)], [[Code]](https://github.com/JC-202/CAGNN)
 - Multi-View Graph Representation Learning Beyond Homophily, TKDD, [[Paper](https://arxiv.org/abs/2304.07509)], [[Code]](https://github.com/G-AILab/MVGE)
 - Spatial Heterophily Aware Graph Neural Networks, KDD, [[Paper](https://arxiv.org/abs/2306.12139)], [[Code]](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/SHGNN)
+- Examining the Effects of Degree Distribution and Homophily in Graph Learning Models, KDD-W, [[Paper](https://arxiv.org/abs/2307.08881)], [[Code]](https://github.com/google-research/graphworld)
 - Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs, ICML, [[Paper](https://arxiv.org/abs/2306.07608)], [[Code]](https://github.com/zyzisastudyreallyhardguy/GOAL-Graph-Complementary-Learning)
 - Contrastive Learning Meets Homophily: Two Birds with One Stone, ICML, [[Paper](https://openreview.net/forum?id=YIcb3pR8ld)], [Code]
 - Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering, ICML, [[Paper](https://arxiv.org/abs/2305.02931)], [[Code]](https://github.com/Panern/DGCN)
@@ -88,6 +89,9 @@ If you find anything incorrect, please let me know. Thanks!
 - HOFA: Twitter Bot Detection with Homophily-Oriented Augmentation and Frequency Adaptive Attention, arXiv, [[Paper](https://arxiv.org/abs/2306.12870)], [Code]
 - Self-supervised Learning and Graph Classification under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2306.08469)], [Code]
 - Heterophily-aware Social Bot Detection with Supervised Contrastive Learning, arXiv, [[Paper](https://arxiv.org/abs/2306.07478)], [Code]
+- Extended Graph Assessment Metrics for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2307.10112)], [Code]
+- Automated Polynomial Filter Learning for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2307.07956)], [Code]
+- Frameless Graph Knowledge Distillation, arXiv, [[Paper](https://arxiv.org/abs/2307.06631)], [[Code](https://github.com/dshi3553usyd/Frameless_Graph_Distillation)]
 
 ### 2022
 
