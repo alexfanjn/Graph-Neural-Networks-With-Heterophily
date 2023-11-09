@@ -44,6 +44,10 @@ If you find anything incorrect, please let me know. Thanks!
 - Taming over-smoothing representation on heterophilic graphs, Inf. Sci., [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025523010484)], [[Code]](https://github.com/KaiGuo20/LE-GNN)
 - Homophily-enhanced Structure Learning for Graph Clustering, CIKM, [[Paper](https://arxiv.org/abs/2308.05309)], [[Code]](https://github.com/galogm/HoLe)
 - Signed attention based graph neural network for graphs with heterophily, Neurocomputing, [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231223008548)], [Code]
+-  Improving the Homophily of Heterophilic Graphs for Semi-Supervised Node Classification, ICME, [[Paper](https://www.computer.org/csdl/proceedings-article/icme/2023/689100b865/1PTMICbZ1wQ)], [Code]
+- Imbalanced node classification with Graph Neural Networks: A unified approach leveraging homophily and label information, Appl. Soft Comput., [[Paper](https://www.sciencedirect.com/science/article/pii/S1568494623010037)], [Code]
+- Leveraging Free Labels to Power up Heterophilic Graph Learning in Weakly-Supervised Settings: An Empirical Study, ECML-PKDD, [[Paper](https://www.springerprofessional.de/leveraging-free-labels-to-power-up-heterophilic-graph-learning-i/26051948)], [Code]
+- Learning to Augment Graph Structure for both Homophily and Heterophily, ECML-PKDD, [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_1)], [[Code]](https://github.com/LirongWu/L2A)
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -92,6 +96,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Extended Graph Assessment Metrics for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2307.10112)], [Code]
 - Automated Polynomial Filter Learning for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2307.07956)], [Code]
 - Frameless Graph Knowledge Distillation, arXiv, [[Paper](https://arxiv.org/abs/2307.06631)], [[Code](https://github.com/dshi3553usyd/Frameless_Graph_Distillation)]
+- MUSE: Multi-View Contrastive Learning for Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2307.16026)], [Code]
 
 ### 2022
 
