@@ -35,7 +35,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering, ICML, [[Paper](https://arxiv.org/abs/2305.02931)], [[Code]](https://github.com/Panern/DGCN)
 - GOAT: A Global Transformer on Large-scale Graphs, ICML, [[Paper](https://openreview.net/forum?id=z29R0uMiF3v)], [[Code]](https://github.com/devnkong/GOAT)
 - Towards Deep Attention in Graph Neural Networks: Problems and Remedies, ICML, [[Paper](https://arxiv.org/abs/2306.02376)], [[Code]](https://github.com/syleeheal/AERO-GNN)
-- Half-Hop: A graph upsampling approach for slowing down message passing, ICML, [[Paper](https://openreview.net/forum?id=lXczFIwQkv)], [Code]
+- Half-Hop: A graph upsampling approach for slowing down message passing, ICML, [[Paper](https://openreview.net/forum?id=lXczFIwQkv)], [[Code]](https://github.com/nerdslab/halfhop)
 - Evolving Computation Graphs, ICML-W, [[Paper](https://arxiv.org/abs/2306.12943)], [Code]
 - ***[Survey Paper]*** Heterophily and Graph Neural Networks: Past, Present and Future, Data Engineering, [[Paper](http://sites.computer.org/debull/A23june/p10.pdf)], [Code]
 - Homophily-Enhanced Self-Supervision for Graph Structure Learning: Insights and Directions, TNNLS, [[Paper](https://ieeexplore.ieee.org/abstract/document/10106110)], [[Code]](https://github.com/LirongWu/Homophily-Enhanced-Self-supervision)
@@ -48,6 +48,8 @@ If you find anything incorrect, please let me know. Thanks!
 - Imbalanced node classification with Graph Neural Networks: A unified approach leveraging homophily and label information, Appl. Soft Comput., [[Paper](https://www.sciencedirect.com/science/article/pii/S1568494623010037)], [Code]
 - Leveraging Free Labels to Power up Heterophilic Graph Learning in Weakly-Supervised Settings: An Empirical Study, ECML-PKDD, [[Paper](https://www.springerprofessional.de/leveraging-free-labels-to-power-up-heterophilic-graph-learning-i/26051948)], [Code]
 - Learning to Augment Graph Structure for both Homophily and Heterophily, ECML-PKDD, [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_1)], [[Code]](https://github.com/LirongWu/L2A)
+- Single-Pass Contrastive Learning Can Work for Both Homophilic and Heterophilic Graph?, TMLR, [[Paper](https://openreview.net/forum?id=XE0cIoi-sZ1)], [[Code]](https://github.com/haonan3/SPGCL)
+- On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks, LoG, [[Paper](https://arxiv.org/abs/2306.05557)], [Code]
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -57,7 +59,6 @@ If you find anything incorrect, please let me know. Thanks!
 - From ChebNet to ChebGibbsNet, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=2a5Ru3JtNe0)], [Code]
 - ProtoGNN: Prototype-Assisted Message Passing Framework for Non-Homophilous Graphs, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=LeZ39Gkwbi0)], [Code]
 - Low-Rank Graph Neural Networks Inspired by the Weak-balance Theory in Social Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=ufCQZeAMZzf)], [Code]
-- Can Single-Pass Contrastive Learning Work for Both Homophilic and Heterophilic Graph?, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XE0cIoi-sZ1)], [Code]
 - Graph Contrastive Learning Under Heterophily: Utilizing Graph Filters to Generate Graph Views, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=NzcUQuhEGef)], [Code]
 - ReD-GCN: Revisit the Depth of Graph Convolutional Network, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=tMg5hKRiW-2)], [Code]
 - Graph Neural Networks as Gradient Flows: Understanding Graph Convolutions via Energy, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=M3GzgrA7U4)], [Code]
@@ -86,7 +87,6 @@ If you find anything incorrect, please let me know. Thanks!
 - Self-attention Dual Embedding for Graphs with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2305.18385)], [Code]
 - Explaining and Adapting Graph Conditional Shift, arXiv, [[Paper](https://arxiv.org/abs/2306.03256)], [Code]
 - Permutation Equivariant Graph Framelets for Heterophilous Graph Learning, arXiv, [[Paper](https://arxiv.org/abs/2306.04265)], [Code]
-- On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2306.05557)], [Code]
 - Heterophily-aware Social Bot Detection with Supervised Contrastive Learning, arXiv, [[Paper](https://arxiv.org/abs/2306.07478)], [Code]
 - Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters, arXiv, [[Paper](https://arxiv.org/abs/2306.16976)], [Code]
 - Imbalanced Node Classification Beyond Homophilic Assumption, arXiv, [[Paper](https://arxiv.org/abs/2304.14635)], [Code]
@@ -97,6 +97,10 @@ If you find anything incorrect, please let me know. Thanks!
 - Automated Polynomial Filter Learning for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2307.07956)], [Code]
 - Frameless Graph Knowledge Distillation, arXiv, [[Paper](https://arxiv.org/abs/2307.06631)], [[Code](https://github.com/dshi3553usyd/Frameless_Graph_Distillation)]
 - MUSE: Multi-View Contrastive Learning for Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2307.16026)], [Code]
+- QDC: Quantum Diffusion Convolution Kernels on Graphs, arXiv, [[Paper](https://arxiv.org/abs/2307.11234)], [Code]
+- UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2308.01650)], [[Code](https://github.com/MinhZou/UniG-Encoder)]
+- Contrastive Learning for Non-Local Graphs with Multi-Resolution Structural Views, arXiv, [[Paper](https://arxiv.org/abs/2308.10077)], [Code]
+- UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2308.16470)], [[Code](https://github.com/shenxiaocam/DM_GNN)]
 
 ### 2022
 
