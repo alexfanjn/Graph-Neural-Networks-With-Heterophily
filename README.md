@@ -50,6 +50,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Learning to Augment Graph Structure for both Homophily and Heterophily, ECML-PKDD, [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_1)], [[Code]](https://github.com/LirongWu/L2A)
 - Single-Pass Contrastive Learning Can Work for Both Homophilic and Heterophilic Graph?, TMLR, [[Paper](https://openreview.net/forum?id=XE0cIoi-sZ1)], [[Code]](https://github.com/haonan3/SPGCL)
 - On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks, LoG, [[Paper](https://arxiv.org/abs/2306.05557)], [Code]
+- UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification, PR, [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323008129?via%3Dihub)], [[Code](https://github.com/MinhZou/UniG-Encoder)]
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -98,9 +99,8 @@ If you find anything incorrect, please let me know. Thanks!
 - Frameless Graph Knowledge Distillation, arXiv, [[Paper](https://arxiv.org/abs/2307.06631)], [[Code](https://github.com/dshi3553usyd/Frameless_Graph_Distillation)]
 - MUSE: Multi-View Contrastive Learning for Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2307.16026)], [Code]
 - QDC: Quantum Diffusion Convolution Kernels on Graphs, arXiv, [[Paper](https://arxiv.org/abs/2307.11234)], [Code]
-- UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2308.01650)], [[Code](https://github.com/MinhZou/UniG-Encoder)]
 - Contrastive Learning for Non-Local Graphs with Multi-Resolution Structural Views, arXiv, [[Paper](https://arxiv.org/abs/2308.10077)], [Code]
-- UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2308.16470)], [[Code](https://github.com/shenxiaocam/DM_GNN)]
+- Domain-adaptive Message Passing Graph Neural Network, arXiv, [[Paper](https://arxiv.org/abs/2308.16470)], [[Code](https://github.com/shenxiaocam/DM_GNN)]
 
 ### 2022
 
