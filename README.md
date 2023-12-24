@@ -101,6 +101,8 @@ If you find anything incorrect, please let me know. Thanks!
 - QDC: Quantum Diffusion Convolution Kernels on Graphs, arXiv, [[Paper](https://arxiv.org/abs/2307.11234)], [Code]
 - Contrastive Learning for Non-Local Graphs with Multi-Resolution Structural Views, arXiv, [[Paper](https://arxiv.org/abs/2308.10077)], [Code]
 - Domain-adaptive Message Passing Graph Neural Network, arXiv, [[Paper](https://arxiv.org/abs/2308.16470)], [[Code](https://github.com/shenxiaocam/DM_GNN)]
+- Unifying over-smoothing and over-squashing in graph neural networks: A physics informed approach and beyond, arXiv, [[Paper](https://arxiv.org/abs/2309.02769)], [Code]
+- Bregman Graph Neural Network, arXiv, [[Paper](https://arxiv.org/abs/2309.06645)], [[Code](https://github.com/jiayuzhai1207/BregmanGNN)]
 
 ### 2022
 
