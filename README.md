@@ -51,6 +51,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Single-Pass Contrastive Learning Can Work for Both Homophilic and Heterophilic Graph?, TMLR, [[Paper](https://openreview.net/forum?id=XE0cIoi-sZ1)], [[Code]](https://github.com/haonan3/SPGCL)
 - On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks, LoG, [[Paper](https://arxiv.org/abs/2306.05557)], [Code]
 - UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification, PR, [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323008129?via%3Dihub)], [[Code](https://github.com/MinhZou/UniG-Encoder)]
+- Neighborhood Homophily-based Graph Convolutional Network, CIKM, [[Paper](https://arxiv.org/abs/2301.09851v2)], [[Code]](https://github.com/rockcor/NHGCN)
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -68,7 +69,6 @@ If you find anything incorrect, please let me know. Thanks!
 - Homophily modulates double descent generalization in graph convolution networks, arXiv, [[Paper](https://arxiv.org/abs/2212.13069v2)], [Code]
 - Semi-Supervised Classification with Graph Convolutional Kernel Machines, arXiv, [[Paper](https://arxiv.org/abs/2301.13764)], [Code]
 - A Graph Neural Network with Negative Message Passing for Graph Coloring, arXiv, [[Paper](https://arxiv.org/abs/2301.11164)], [Code]
-- Neighborhood Homophily-based Graph Convolutional Network, arXiv, [[Paper](https://arxiv.org/abs/2301.09851v2)], [Code]
 - Is Signed Message Essential for Graph Neural Networks?, arXiv, [[Paper](https://arxiv.org/abs/2301.08918)], [Code]
 - Attending to Graph Transformers, arXiv, [[Paper](https://arxiv.org/abs/2302.04181)], [[Code](https://github.com/luis-mueller/probing-graph-transformers)]
 - Heterophily-Aware Graph Attention Network, arXiv, [[Paper](https://arxiv.org/abs/2302.03228)], [Code]
@@ -103,6 +103,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Domain-adaptive Message Passing Graph Neural Network, arXiv, [[Paper](https://arxiv.org/abs/2308.16470)], [[Code](https://github.com/shenxiaocam/DM_GNN)]
 - Unifying over-smoothing and over-squashing in graph neural networks: A physics informed approach and beyond, arXiv, [[Paper](https://arxiv.org/abs/2309.02769)], [Code]
 - Bregman Graph Neural Network, arXiv, [[Paper](https://arxiv.org/abs/2309.06645)], [[Code](https://github.com/jiayuzhai1207/BregmanGNN)]
+- HoloNets: Spectral Convolutions do extend to Directed Graphs, arXiv, [[Paper](https://arxiv.org/abs/2310.02232)], [Code]
 
 ### 2022
 
