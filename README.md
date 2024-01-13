@@ -52,6 +52,7 @@ If you find anything incorrect, please let me know. Thanks!
 - On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks, LoG, [[Paper](https://arxiv.org/abs/2306.05557)], [Code]
 - UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification, PR, [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323008129?via%3Dihub)], [[Code](https://github.com/MinhZou/UniG-Encoder)]
 - Neighborhood Homophily-based Graph Convolutional Network, CIKM, [[Paper](https://arxiv.org/abs/2301.09851v2)], [[Code]](https://github.com/rockcor/NHGCN)
+- Simple and Asymmetric Graph Contrastive Learning without Augmentations, NeurIPS, [[Paper](https://arxiv.org/abs/2310.18884)], [[Code]](https://github.com/tengxiao1/GraphACL)
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -104,6 +105,11 @@ If you find anything incorrect, please let me know. Thanks!
 - Unifying over-smoothing and over-squashing in graph neural networks: A physics informed approach and beyond, arXiv, [[Paper](https://arxiv.org/abs/2309.02769)], [Code]
 - Bregman Graph Neural Network, arXiv, [[Paper](https://arxiv.org/abs/2309.06645)], [[Code](https://github.com/jiayuzhai1207/BregmanGNN)]
 - HoloNets: Spectral Convolutions do extend to Directed Graphs, arXiv, [[Paper](https://arxiv.org/abs/2310.02232)], [Code]
+- Learning Graph Filters for Spectral GNNs via Newton Interpolation, arXiv, [[Paper](https://arxiv.org/abs/2310.10064)], [Code]
+- SignGT: Signed Attention-based Graph Transformer for Graph Representation Learning, arXiv, [[Paper](https://arxiv.org/abs/2310.11025)], [Code]
+- Hetero2Net: Heterophily-aware Representation Learning on Heterogenerous Graphs, arXiv, [[Paper](https://arxiv.org/abs/2310.11664)], [Code]
+- Augment with Care: Enhancing Graph Contrastive Learning with Selective Spectrum Perturbation, arXiv, [[Paper](https://arxiv.org/abs/2310.13845)], [Code]
+- Enhancing Graph Neural Networks with Structure-Based Prompt, arXiv, [[Paper](https://arxiv.org/abs/2310.17394)], [Code]
 
 ### 2022
 
