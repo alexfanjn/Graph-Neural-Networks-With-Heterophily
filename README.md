@@ -12,9 +12,9 @@ If you find anything incorrect, please let me know. Thanks!
 
 ### 2024
 
-- Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision, ICLR, [[Paper](https://openreview.net/attachment?id=elMKXvhhQ9&name=pdf),[Code]]
-- PolyGCL: GRAPH CONTRASTIVE LEARNING via Learnable Spectral Polynomial Filters, ICLR, [[Paper](https://openreview.net/attachment?id=y21ZO6M86t&name=pdf),[Code]]
-- Partitioning Message Passing for Graph Fraud Detection, ICLR, [[Paper](https://openreview.net/attachment?id=tEgrUrUuwA&name=pdf),[Code]]
+- Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision, ICLR, [[Paper](https://openreview.net/attachment?id=elMKXvhhQ9&name=pdf)],[Code]
+- PolyGCL: GRAPH CONTRASTIVE LEARNING via Learnable Spectral Polynomial Filters, ICLR, [[Paper](https://openreview.net/attachment?id=y21ZO6M86t&name=pdf)],[Code]
+- Partitioning Message Passing for Graph Fraud Detection, ICLR, [[Paper](https://openreview.net/attachment?id=tEgrUrUuwA&name=pdf)],[Code]
 
 ### 2023
 - Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
