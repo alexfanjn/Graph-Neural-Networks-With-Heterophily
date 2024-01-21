@@ -13,7 +13,7 @@ If you find anything incorrect, please let me know. Thanks!
 ### 2024
 
 - Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision, ICLR, [[Paper](https://openreview.net/attachment?id=elMKXvhhQ9&name=pdf)],[Code]
-- PolyGCL: GRAPH CONTRASTIVE LEARNING via Learnable Spectral Polynomial Filters, ICLR, [[Paper](https://openreview.net/attachment?id=y21ZO6M86t&name=pdf)],[Code]
+- PolyGCL: Graph Contrastive Learning via Learnable Spectral Polynomial Filters, ICLR, [[Paper](https://openreview.net/attachment?id=y21ZO6M86t&name=pdf)],[Code]
 - Partitioning Message Passing for Graph Fraud Detection, ICLR, [[Paper](https://openreview.net/attachment?id=tEgrUrUuwA&name=pdf)],[Code]
 
 ### 2023
@@ -59,6 +59,7 @@ If you find anything incorrect, please let me know. Thanks!
 - UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification, PR, [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323008129?via%3Dihub)], [[Code](https://github.com/MinhZou/UniG-Encoder)]
 - Neighborhood Homophily-based Graph Convolutional Network, CIKM, [[Paper](https://arxiv.org/abs/2301.09851v2)], [[Code]](https://github.com/rockcor/NHGCN)
 - Simple and Asymmetric Graph Contrastive Learning without Augmentations, NeurIPS, [[Paper](https://arxiv.org/abs/2310.18884)], [[Code]](https://github.com/tengxiao1/GraphACL)
+- When Do Graph Neural Networks Help with Node Classification: Investigating the Homophily Principle on Node Distinguishability, NeurIPS, [[Paper](https://arxiv.org/abs/2304.14274)], [Code]
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -83,7 +84,6 @@ If you find anything incorrect, please let me know. Thanks!
 - Contrastive Learning under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2303.06344)], [Code]
 - Graph Positional Encoding via Random Feature Propagation, arXiv, [[Paper](https://arxiv.org/abs/2303.02918)], [Code]
 - Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection, arXiv, [[Paper](https://arxiv.org/abs/2306.00006)], [[Code](https://github.com/mala-lab/TAM-master/)]
-- When Do Graph Neural Networks Help with Node Classification: Investigating the Homophily Principle on Node Distinguishability, arXiv, [[Paper](https://arxiv.org/abs/2304.14274)], [Code]
 - GPatcher: A Simple and Adaptive MLP Model for Alleviating Graph Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2306.14340)], [Code]
 - PathMLP: Smooth Path Towards High-order Homophily, arXiv, [[Paper](https://arxiv.org/abs/2306.13532)], [Code]
 - Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?, arXiv, [[Paper](https://arxiv.org/abs/2306.01323)], [Code]
@@ -116,6 +116,11 @@ If you find anything incorrect, please let me know. Thanks!
 - Hetero2Net: Heterophily-aware Representation Learning on Heterogenerous Graphs, arXiv, [[Paper](https://arxiv.org/abs/2310.11664)], [Code]
 - Augment with Care: Enhancing Graph Contrastive Learning with Selective Spectrum Perturbation, arXiv, [[Paper](https://arxiv.org/abs/2310.13845)], [Code]
 - Enhancing Graph Neural Networks with Structure-Based Prompt, arXiv, [[Paper](https://arxiv.org/abs/2310.17394)], [Code]
+- Resist Label Noise with PGM for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2311.02116)], [Code]
+- Prioritized Propagation in Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2311.02832)], [Code]
+- Mixture of Weak & Strong Experts on Graphs, arXiv, [[Paper](https://arxiv.org/abs/2311.05185)], [Code]
+- Dirichlet Energy Enhancement of Graph Neural Networks by Framelet Augmentation, arXiv, [[Paper](https://arxiv.org/abs/2311.05767)], [Code]
+- An Effective Universal Polynomial Basis for Spectral Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2311.18177)], [Code]
 
 ### 2022
 
