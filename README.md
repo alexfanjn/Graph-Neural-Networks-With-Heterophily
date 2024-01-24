@@ -31,7 +31,8 @@ If you find anything incorrect, please let me know. Thanks!
 - Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs, WWW, [[Paper](https://arxiv.org/abs/2302.12357)], [Code]
 - Label Information Enhanced Fraud Detection against Low Homophily in Graphs, WWW,  [[Paper](https://arxiv.org/abs/2302.10407)], [[Code](https://github.com/Orion-wyc/GAGA)]
 - SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization, WWW,  [[Paper](https://arxiv.org/abs/2303.09778)], [[Code](https://github.com/RingBDStack/SE-GSL)]
-- GCNH: A Simple Method For Representation Learning On Heterophilous Graphs, IJCNN, [[Paper](https://arxiv.org/abs/2304.10896)], [[Code](https://github.com/SmartData-Polito/GCNH)]
+- Graph Neural Networks with Diverse Spectral Filtering, WWW,  [[Paper](https://arxiv.org/abs/2312.09041)], [[Code](https://github.com/jingweio/DSF)]
+- GCNH: A Simple Method For Representation Learning on Heterophilous Graphs, IJCNN, [[Paper](https://arxiv.org/abs/2304.10896)], [[Code](https://github.com/SmartData-Polito/GCNH)]
 - Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily, TNNLS, [[Paper](https://arxiv.org/abs/2203.11200)], [[Code]](https://github.com/JC-202/CAGNN)
 - Multi-View Graph Representation Learning Beyond Homophily, TKDD, [[Paper](https://arxiv.org/abs/2304.07509)], [[Code]](https://github.com/G-AILab/MVGE)
 - Spatial Heterophily Aware Graph Neural Networks, KDD, [[Paper](https://arxiv.org/abs/2306.12139)], [[Code]](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/SHGNN)
@@ -60,6 +61,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Neighborhood Homophily-based Graph Convolutional Network, CIKM, [[Paper](https://arxiv.org/abs/2301.09851v2)], [[Code]](https://github.com/rockcor/NHGCN)
 - Simple and Asymmetric Graph Contrastive Learning without Augmentations, NeurIPS, [[Paper](https://arxiv.org/abs/2310.18884)], [[Code]](https://github.com/tengxiao1/GraphACL)
 - When Do Graph Neural Networks Help with Node Classification: Investigating the Homophily Principle on Node Distinguishability, NeurIPS, [[Paper](https://arxiv.org/abs/2304.14274)], [Code]
+- Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection, arXiv, [[Paper](https://arxiv.org/abs/2306.00006)], [[Code](https://github.com/mala-lab/TAM-master/)]
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
@@ -83,7 +85,6 @@ If you find anything incorrect, please let me know. Thanks!
 - Steering Graph Neural Networks with Pinning Control, arXiv, [[Paper](https://arxiv.org/abs/2303.01265)], [Code]
 - Contrastive Learning under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2303.06344)], [Code]
 - Graph Positional Encoding via Random Feature Propagation, arXiv, [[Paper](https://arxiv.org/abs/2303.02918)], [Code]
-- Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection, arXiv, [[Paper](https://arxiv.org/abs/2306.00006)], [[Code](https://github.com/mala-lab/TAM-master/)]
 - GPatcher: A Simple and Adaptive MLP Model for Alleviating Graph Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2306.14340)], [Code]
 - PathMLP: Smooth Path Towards High-order Homophily, arXiv, [[Paper](https://arxiv.org/abs/2306.13532)], [Code]
 - Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?, arXiv, [[Paper](https://arxiv.org/abs/2306.01323)], [Code]
@@ -121,6 +122,10 @@ If you find anything incorrect, please let me know. Thanks!
 - Mixture of Weak & Strong Experts on Graphs, arXiv, [[Paper](https://arxiv.org/abs/2311.05185)], [Code]
 - Dirichlet Energy Enhancement of Graph Neural Networks by Framelet Augmentation, arXiv, [[Paper](https://arxiv.org/abs/2311.05767)], [Code]
 - An Effective Universal Polynomial Basis for Spectral Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2311.18177)], [Code]
+- Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2312.04111)], [Code]
+- Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum, arXiv, [[Paper](https://arxiv.org/abs/2312.06441)], [Code]
+- CAT: A Causally Graph Attention Network for Trimming Heterophilic Graph, arXiv, [[Paper](https://arxiv.org/abs/2312.08672)], [[Code](https://github.com/GeoX-Lab/CAT)]
+- GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy, arXiv, [[Paper](https://arxiv.org/abs/2312.09708)], [Code]
 
 ### 2022
 
