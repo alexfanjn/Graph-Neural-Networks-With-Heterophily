@@ -15,6 +15,9 @@ If you find anything incorrect, please let me know. Thanks!
 - Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision, ICLR, [[Paper](https://openreview.net/attachment?id=elMKXvhhQ9&name=pdf)],[Code]
 - PolyGCL: Graph Contrastive Learning via Learnable Spectral Polynomial Filters, ICLR, [[Paper](https://openreview.net/attachment?id=y21ZO6M86t&name=pdf)],[Code]
 - Partitioning Message Passing for Graph Fraud Detection, ICLR, [[Paper](https://openreview.net/attachment?id=tEgrUrUuwA&name=pdf)],[Code]
+- PC-Conv: Unifying Homophily and Heterophily with Two-fold Filtering, AAAI, [[Paper](https://arxiv.org/abs/2312.14438)], [[Code](https://github.com/uestclbh/PC-Conv)]
+- Refining Latent Homophilic Structures over Heterophilic Graphs for Robust Graph Convolution Networks, AAAI, [[Paper](https://arxiv.org/abs/2312.16418)], [Code]
+- Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering, AAAI, [[Paper](https://arxiv.org/abs/2401.02682)], [Code]
 
 ### 2023
 - Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
@@ -60,7 +63,7 @@ If you find anything incorrect, please let me know. Thanks!
 - UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification, PR, [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323008129?via%3Dihub)], [[Code](https://github.com/MinhZou/UniG-Encoder)]
 - Neighborhood Homophily-based Graph Convolutional Network, CIKM, [[Paper](https://arxiv.org/abs/2301.09851v2)], [[Code]](https://github.com/rockcor/NHGCN)
 - Simple and Asymmetric Graph Contrastive Learning without Augmentations, NeurIPS, [[Paper](https://arxiv.org/abs/2310.18884)], [[Code]](https://github.com/tengxiao1/GraphACL)
-- When Do Graph Neural Networks Help with Node Classification: Investigating the Homophily Principle on Node Distinguishability, NeurIPS, [[Paper](https://arxiv.org/abs/2304.14274)], [Code]
+- When Do Graph Neural Networks Help with Node Classification: Investigating the Homophily Principle on Node Distinguishability, NeurIPS, [[Paper](https://arxiv.org/abs/2304.14274)], [[Code]](https://github.com/SitaoLuan/When-Do-GNNs-Help)
 - Truncated Affinity Maximization: One-class Homophily Modeling for Graph Anomaly Detection, arXiv, [[Paper](https://arxiv.org/abs/2306.00006)], [[Code](https://github.com/mala-lab/TAM-master/)]
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
