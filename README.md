@@ -24,6 +24,13 @@ If you find anything incorrect, please let me know. Thanks!
 - PC-Conv: Unifying Homophily and Heterophily with Two-fold Filtering, AAAI, [[Paper](https://arxiv.org/abs/2312.14438)], [[Code](https://github.com/uestclbh/PC-Conv)]
 - Refining Latent Homophilic Structures over Heterophilic Graphs for Robust Graph Convolution Networks, AAAI, [[Paper](https://arxiv.org/abs/2312.16418)], [Code]
 - Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering, AAAI, [[Paper](https://arxiv.org/abs/2401.02682)], [Code]
+- PhoGAD: Graph-based Anomaly Behavior Detection with Persistent Homology Optimization, WSDM, [[Paper](https://arxiv.org/abs/2401.10547)], [Code]
+- Challenging Low Homophily in Social Recommendation, WWW, [[Paper](https://arxiv.org/abs/2401.14606)], [Code]
+- Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering, arXiv, [[Paper](https://arxiv.org/abs/2401.09071)], [Code]
+- Understanding Heterophily for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2401.09125)], [Code]
+- Universally Robust Graph Neural Networks by Preserving Neighbor Similarity, arXiv, [[Paper](https://arxiv.org/abs/2401.09754)], [Code]
+- ***[Survey Paper]*** Learning from Graphs with Heterophily: Progress and Future, arXiv, [[Paper](https://arxiv.org/abs/2401.09769)], [[Code](https://github.com/gongchenghua/Awesome-Survey-Graphs-with-Heterophily)]
+- Design Your Own Universe: A Physics-Informed Agnostic Method for Enhancing Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2401.14580)], [Code]
 
 ### 2023
 - Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
@@ -82,6 +89,7 @@ If you find anything incorrect, please let me know. Thanks!
 - LD2: Scalable Heterophilous Graph Neural Network with Decoupled Embeddings, NeurIPS, [[Paper](https://openreview.net/forum?id=7zkFc9TGKz)], [[Code](https://github.com/gdmnl/LD2)]
 - Predicting Global Label Relationship Matrix for Graph Neural Networks under Heterophily, NeurIPS, [[Paper](https://openreview.net/forum?id=nBFMCyEi0j)], [[Code](https://github.com/Jinx-byebye/LRGNN/)]
 - From Trainable Negative Depth to Edge Heterophily in Graphs, NeurIPS, [[Paper](https://openreview.net/forum?id=p8lowHbuv8)], [Code]
+- Alleviating Structural Distribution Shift in Graph Anomaly Detection, WSDM, [[Paper](https://arxiv.org/abs/2401.14155)], [[Code]](https://github.com/blacksingular/wsdm_GDN)
 - SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - Simple Spectral Graph Convolution from an Optimization Perspective, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=cZM4iZmxzR7)], [Code]
 - The Impact of Neighborhood Distribution in Graph Convolutional Networks, ICLR OpenReview, [[Paper](https://openreview.net/forum?id=XUqTyU9VlWp)], [Code]
