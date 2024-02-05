@@ -26,6 +26,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering, AAAI, [[Paper](https://arxiv.org/abs/2401.02682)], [Code]
 - PhoGAD: Graph-based Anomaly Behavior Detection with Persistent Homology Optimization, WSDM, [[Paper](https://arxiv.org/abs/2401.10547)], [Code]
 - Challenging Low Homophily in Social Recommendation, WWW, [[Paper](https://arxiv.org/abs/2401.14606)], [Code]
+- Cross-Space Adaptive Filter: Integrating Graph Topology and Node Attributes for Alleviating the Over-smoothing Problem, WWW, [[Paper](https://arxiv.org/abs/2401.14876)], [[Code]](https://github.com/huangzichun/Cross-Space-Adaptive-Filter)
 - Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering, arXiv, [[Paper](https://arxiv.org/abs/2401.09071)], [Code]
 - Understanding Heterophily for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2401.09125)], [Code]
 - Universally Robust Graph Neural Networks by Preserving Neighbor Similarity, arXiv, [[Paper](https://arxiv.org/abs/2401.09754)], [Code]
