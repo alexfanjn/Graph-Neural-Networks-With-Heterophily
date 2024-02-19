@@ -27,11 +27,16 @@ If you find anything incorrect, please let me know. Thanks!
 - PhoGAD: Graph-based Anomaly Behavior Detection with Persistent Homology Optimization, WSDM, [[Paper](https://arxiv.org/abs/2401.10547)], [Code]
 - Challenging Low Homophily in Social Recommendation, WWW, [[Paper](https://arxiv.org/abs/2401.14606)], [Code]
 - Cross-Space Adaptive Filter: Integrating Graph Topology and Node Attributes for Alleviating the Over-smoothing Problem, WWW, [[Paper](https://arxiv.org/abs/2401.14876)], [[Code]](https://github.com/huangzichun/Cross-Space-Adaptive-Filter)
+- Disambiguated Node Classification with Graph Neural Networks, WWW, [[Paper](https://arxiv.org/abs/2402.08824)], [Code]
 - Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering, arXiv, [[Paper](https://arxiv.org/abs/2401.09071)], [Code]
 - Understanding Heterophily for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2401.09125)], [Code]
 - Universally Robust Graph Neural Networks by Preserving Neighbor Similarity, arXiv, [[Paper](https://arxiv.org/abs/2401.09754)], [Code]
 - ***[Survey Paper]*** Learning from Graphs with Heterophily: Progress and Future, arXiv, [[Paper](https://arxiv.org/abs/2401.09769)], [[Code](https://github.com/gongchenghua/Awesome-Survey-Graphs-with-Heterophily)]
 - Design Your Own Universe: A Physics-Informed Agnostic Method for Enhancing Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2401.14580)], [Code]
+- Hypergraph Neural Networks through the Lens of Message Passing: A Common Perspective to Homophily and Architecture Design, arXiv, [[Paper](https://arxiv.org/abs/2310.07684v2)], [Code]
+- Heterophily-Aware Fair Recommendation using Graph Convolutional Networks, arXiv, [[Paper](https://arxiv.org/abs/2402.03365)], [[Code]](https://github.com/NematGH/HetroFair)
+- Feature Distribution on Graph Topology Mediates the Effect of Graph Convolution: Homophily Perspective, arXiv, [[Paper](https://arxiv.org/abs/2402.04621)], [Code]
+- Flexible infinite-width graph convolutional networks and the importance of representation learning, arXiv, [[Paper](https://arxiv.org/abs/2402.06525)], [Code]
 
 ### 2023
 - Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
