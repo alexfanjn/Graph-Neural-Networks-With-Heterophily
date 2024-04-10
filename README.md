@@ -16,7 +16,7 @@ If you find anything incorrect, please let me know. Thanks!
 - PolyGCL: Graph Contrastive Learning via Learnable Spectral Polynomial Filters, ICLR, [[Paper](https://openreview.net/forum?id=y21ZO6M86t)], [Code]
 - Partitioning Message Passing for Graph Fraud Detection, ICLR, [[Paper](https://openreview.net/forum?id=tEgrUrUuwA)], [Code]
 - NetInfoF Framework: Measuring and Exploiting Network Usable Information, ICLR, [[Paper](https://openreview.net/forum?id=KY8ZNcljVU)], [Code]
-- Polynormer: Polynomial-Expressive Graph Transformer in Linear Time, ICLR, [[Paper](https://openreview.net/forum?id=hmv1LpNfXa)], [Code]
+- Polynormer: Polynomial-Expressive Graph Transformer in Linear Time, ICLR, [[Paper](https://openreview.net/forum?id=hmv1LpNfXa)], [[Code]](https://github.com/cornell-zhang/Polynormer)
 - From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module, ICLR, [[Paper](https://openreview.net/forum?id=0JsRZEGZ7L)], [Code]
 - Mixture of Weak & Strong Experts on Graphs, ICLR, [[Paper](https://openreview.net/forum?id=wYvuY60SdD)], [Code]
 - HoloNets: Spectral Convolutions do extend to Directed Graphs, ICLR, [[Paper](https://openreview.net/forum?id=EhmEwfavOW)], [Code]
@@ -28,6 +28,8 @@ If you find anything incorrect, please let me know. Thanks!
 - Challenging Low Homophily in Social Recommendation, WWW, [[Paper](https://arxiv.org/abs/2401.14606)], [Code]
 - Cross-Space Adaptive Filter: Integrating Graph Topology and Node Attributes for Alleviating the Over-smoothing Problem, WWW, [[Paper](https://arxiv.org/abs/2401.14876)], [[Code]](https://github.com/huangzichun/Cross-Space-Adaptive-Filter)
 - Disambiguated Node Classification with Graph Neural Networks, WWW, [[Paper](https://arxiv.org/abs/2402.08824)], [Code]
+- Permutation Equivariant Graph Framelets for Heterophilous Graph Learning, TNNLS, [[Paper](https://arxiv.org/abs/2306.04265)], [[Code]](https://github.com/zrgcityu/PEGFAN)
+- Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification, ICDE, [[Paper](https://arxiv.org/abs/2312.04111)], [Code]
 - Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering, arXiv, [[Paper](https://arxiv.org/abs/2401.09071)], [Code]
 - Understanding Heterophily for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2401.09125)], [Code]
 - Universally Robust Graph Neural Networks by Preserving Neighbor Similarity, arXiv, [[Paper](https://arxiv.org/abs/2401.09754)], [Code]
@@ -37,6 +39,12 @@ If you find anything incorrect, please let me know. Thanks!
 - Heterophily-Aware Fair Recommendation using Graph Convolutional Networks, arXiv, [[Paper](https://arxiv.org/abs/2402.03365)], [[Code]](https://github.com/NematGH/HetroFair)
 - Feature Distribution on Graph Topology Mediates the Effect of Graph Convolution: Homophily Perspective, arXiv, [[Paper](https://arxiv.org/abs/2402.04621)], [Code]
 - Flexible infinite-width graph convolutional networks and the importance of representation learning, arXiv, [[Paper](https://arxiv.org/abs/2402.06525)], [Code]
+- Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach, arXiv, [[Paper](https://arxiv.org/abs/2402.14802)], [Code]
+- Representation Learning on Heterophilic Graph with Directional Neighborhood Attention, arXiv, [[Paper](https://arxiv.org/abs/2403.01475)], [Code]
+- Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding, arXiv, [[Paper](https://arxiv.org/abs/2403.03465)], [[Code]](https://github.com/mengyingjiang/GCN-SA)
+- Robust Graph Structure Learning under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2403.03659)], [Code]
+- Provable Filter for Real-world Graph Clustering, arXiv, [[Paper](https://arxiv.org/abs/2403.03666)], [Code]
+- Simplified PCNet with Robustness, arXiv, [[Paper](https://arxiv.org/abs/2403.03676)], [Code]
 
 ### 2023
 - Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
@@ -128,7 +136,6 @@ If you find anything incorrect, please let me know. Thanks!
 - From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module, arXiv, [[Paper](https://arxiv.org/abs/2305.16174)], [Code]
 - Self-attention Dual Embedding for Graphs with Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2305.18385)], [Code]
 - Explaining and Adapting Graph Conditional Shift, arXiv, [[Paper](https://arxiv.org/abs/2306.03256)], [Code]
-- Permutation Equivariant Graph Framelets for Heterophilous Graph Learning, arXiv, [[Paper](https://arxiv.org/abs/2306.04265)], [Code]
 - Heterophily-aware Social Bot Detection with Supervised Contrastive Learning, arXiv, [[Paper](https://arxiv.org/abs/2306.07478)], [Code]
 - Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters, arXiv, [[Paper](https://arxiv.org/abs/2306.16976)], [Code]
 - HOFA: Twitter Bot Detection with Homophily-Oriented Augmentation and Frequency Adaptive Attention, arXiv, [[Paper](https://arxiv.org/abs/2306.12870)], [Code]
@@ -151,7 +158,6 @@ If you find anything incorrect, please let me know. Thanks!
 - Prioritized Propagation in Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2311.02832)], [Code]
 - Dirichlet Energy Enhancement of Graph Neural Networks by Framelet Augmentation, arXiv, [[Paper](https://arxiv.org/abs/2311.05767)], [Code]
 - An Effective Universal Polynomial Basis for Spectral Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2311.18177)], [Code]
-- Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2312.04111)], [Code]
 - Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum, arXiv, [[Paper](https://arxiv.org/abs/2312.06441)], [Code]
 - CAT: A Causally Graph Attention Network for Trimming Heterophilic Graph, arXiv, [[Paper](https://arxiv.org/abs/2312.08672)], [[Code](https://github.com/GeoX-Lab/CAT)]
 - GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy, arXiv, [[Paper](https://arxiv.org/abs/2312.09708)], [Code]
