@@ -20,7 +20,7 @@ If you find anything incorrect, please let me know. Thanks!
 - From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module, ICLR, [[Paper](https://openreview.net/forum?id=0JsRZEGZ7L)], [Code]
 - Mixture of Weak & Strong Experts on Graphs, ICLR, [[Paper](https://openreview.net/forum?id=wYvuY60SdD)], [Code]
 - HoloNets: Spectral Convolutions do extend to Directed Graphs, ICLR, [[Paper](https://openreview.net/forum?id=EhmEwfavOW)], [Code]
-- VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections, ICLR, [[Paper](https://openreview.net/forum?id=SUUrkC3STJ)], [Code]
+- VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections, ICLR, [[Paper](https://openreview.net/forum?id=SUUrkC3STJ)], [[Code]](https://github.com/DongqiFu/VCR-Graphormer)
 - PC-Conv: Unifying Homophily and Heterophily with Two-fold Filtering, AAAI, [[Paper](https://arxiv.org/abs/2312.14438)], [[Code](https://github.com/uestclbh/PC-Conv)]
 - Refining Latent Homophilic Structures over Heterophilic Graphs for Robust Graph Convolution Networks, AAAI, [[Paper](https://arxiv.org/abs/2312.16418)], [Code]
 - Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering, AAAI, [[Paper](https://arxiv.org/abs/2401.02682)], [Code]
@@ -45,6 +45,12 @@ If you find anything incorrect, please let me know. Thanks!
 - Robust Graph Structure Learning under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2403.03659)], [Code]
 - Provable Filter for Real-world Graph Clustering, arXiv, [[Paper](https://arxiv.org/abs/2403.03666)], [Code]
 - Simplified PCNet with Robustness, arXiv, [[Paper](https://arxiv.org/abs/2403.03676)], [Code]
+- Optimizing Polynomial Graph Filters: A Novel Adaptive Krylov Subspace Approach, arXiv, [[Paper](https://arxiv.org/abs/2403.07954)], [Code]
+- Generation is better than Modification: Combating High Class Homophily Variance in Graph Anomaly Detection, arXiv, [[Paper](https://arxiv.org/abs/2403.10339)], [Code]
+- Discovering Invariant Neighborhood Patterns for Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2403.10572)], [Code]
+- Distinguishing Neighborhood Representations Through Reverse Process of GNNs for Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2403.10543)], [Code]
+- Learn from Heterophily: Heterophilous Information-enhanced Graph Neural Network, arXiv, [[Paper](https://arxiv.org/abs/2403.17351)], [Code]
+- Spectral Graph Pruning Against Over-Squashing and Over-Smoothing, arXiv, [[Paper](https://arxiv.org/abs/2404.04612)], [Code]
 
 ### 2023
 - Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
