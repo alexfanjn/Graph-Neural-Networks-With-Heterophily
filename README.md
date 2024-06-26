@@ -30,6 +30,9 @@ If you find anything incorrect, please let me know. Thanks!
 - Disambiguated Node Classification with Graph Neural Networks, WWW, [[Paper](https://arxiv.org/abs/2402.08824)], [Code]
 - Permutation Equivariant Graph Framelets for Heterophilous Graph Learning, TNNLS, [[Paper](https://arxiv.org/abs/2306.04265)], [[Code]](https://github.com/zrgcityu/PEGFAN)
 - Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification, ICDE, [[Paper](https://arxiv.org/abs/2312.04111)], [Code]
+- Lying Graph Convolution: Learning to Lie for Node Classification Tasks, IJCNN, [[Paper](https://arxiv.org/abs/2405.01247)], [[Code]](https://github.com/danielecastellana22/lying-graph-convolution)
+- SeBot: Structural Entropy Guided Multi-View Contrastive Learning for Social Bot Detection, KDD, [[Paper](https://arxiv.org/abs/2405.11225)], [[Code]](https://github.com/846468230/SEBot)
+- How Universal Polynomial Bases Enhance Spectral Graph Neural Networks: Heterophily, Over-smoothing, and Over-squashing, ICML, [[Paper](https://arxiv.org/abs/2405.12474)], [[Code]](https://github.com/kkhuang81/UniFilter)
 - Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering, arXiv, [[Paper](https://arxiv.org/abs/2401.09071)], [Code]
 - Understanding Heterophily for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2401.09125)], [Code]
 - Universally Robust Graph Neural Networks by Preserving Neighbor Similarity, arXiv, [[Paper](https://arxiv.org/abs/2401.09754)], [Code]
@@ -45,12 +48,15 @@ If you find anything incorrect, please let me know. Thanks!
 - Robust Graph Structure Learning under Heterophily, arXiv, [[Paper](https://arxiv.org/abs/2403.03659)], [Code]
 - Provable Filter for Real-world Graph Clustering, arXiv, [[Paper](https://arxiv.org/abs/2403.03666)], [Code]
 - Simplified PCNet with Robustness, arXiv, [[Paper](https://arxiv.org/abs/2403.03676)], [Code]
-- Optimizing Polynomial Graph Filters: A Novel Adaptive Krylov Subspace Approach, arXiv, [[Paper](https://arxiv.org/abs/2403.07954)], [Code]
+- Optimizing Polynomial Graph Filters: A Novel Adaptive Krylov Subspace Approach, arXiv, [[Paper](https://arxiv.org/abs/2403.07954)], [[Code]](https://github.com/kkhuang81/AdaptKry)
 - Generation is better than Modification: Combating High Class Homophily Variance in Graph Anomaly Detection, arXiv, [[Paper](https://arxiv.org/abs/2403.10339)], [Code]
 - Discovering Invariant Neighborhood Patterns for Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2403.10572)], [Code]
 - Distinguishing Neighborhood Representations Through Reverse Process of GNNs for Heterophilic Graphs, arXiv, [[Paper](https://arxiv.org/abs/2403.10543)], [Code]
 - Learn from Heterophily: Heterophilous Information-enhanced Graph Neural Network, arXiv, [[Paper](https://arxiv.org/abs/2403.17351)], [Code]
 - Spectral Graph Pruning Against Over-Squashing and Over-Smoothing, arXiv, [[Paper](https://arxiv.org/abs/2404.04612)], [Code]
+- All Nodes are created Not Equal: Node-Specific Layer Aggregation and Filtration for GNN, arXiv, [[Paper](https://arxiv.org/abs/2405.07892)], [[Code]](https://github.com/wslong20/NoSAF-NoSAF-D)
+- LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework, arXiv, [[Paper](https://arxiv.org/abs/2405.13902)], [[Code]](https://github.com/QiaoYRan/LOGIN)
+- Learning Graph Filters for Spectral GNNs via Newton Interpolation, arXiv, [[Paper](Shape-aware Graph Spectral Learning)], [Code]
 
 ### 2023
 - Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
@@ -155,7 +161,6 @@ If you find anything incorrect, please let me know. Thanks!
 - Unifying over-smoothing and over-squashing in graph neural networks: A physics informed approach and beyond, arXiv, [[Paper](https://arxiv.org/abs/2309.02769)], [Code]
 - Bregman Graph Neural Network, arXiv, [[Paper](https://arxiv.org/abs/2309.06645)], [[Code](https://github.com/jiayuzhai1207/BregmanGNN)]
 - HoloNets: Spectral Convolutions do extend to Directed Graphs, arXiv, [[Paper](https://arxiv.org/abs/2310.02232)], [Code]
-- Learning Graph Filters for Spectral GNNs via Newton Interpolation, arXiv, [[Paper](https://arxiv.org/abs/2310.10064)], [Code]
 - SignGT: Signed Attention-based Graph Transformer for Graph Representation Learning, arXiv, [[Paper](https://arxiv.org/abs/2310.11025)], [Code]
 - Hetero2Net: Heterophily-aware Representation Learning on Heterogenerous Graphs, arXiv, [[Paper](https://arxiv.org/abs/2310.11664)], [Code]
 - Augment with Care: Enhancing Graph Contrastive Learning with Selective Spectrum Perturbation, arXiv, [[Paper](https://arxiv.org/abs/2310.13845)], [Code]
@@ -163,7 +168,6 @@ If you find anything incorrect, please let me know. Thanks!
 - Resist Label Noise with PGM for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2311.02116)], [Code]
 - Prioritized Propagation in Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2311.02832)], [Code]
 - Dirichlet Energy Enhancement of Graph Neural Networks by Framelet Augmentation, arXiv, [[Paper](https://arxiv.org/abs/2311.05767)], [Code]
-- An Effective Universal Polynomial Basis for Spectral Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2311.18177)], [Code]
 - Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum, arXiv, [[Paper](https://arxiv.org/abs/2312.06441)], [Code]
 - CAT: A Causally Graph Attention Network for Trimming Heterophilic Graph, arXiv, [[Paper](https://arxiv.org/abs/2312.08672)], [[Code](https://github.com/GeoX-Lab/CAT)]
 - GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy, arXiv, [[Paper](https://arxiv.org/abs/2312.09708)], [Code]
