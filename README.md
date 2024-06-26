@@ -56,7 +56,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Spectral Graph Pruning Against Over-Squashing and Over-Smoothing, arXiv, [[Paper](https://arxiv.org/abs/2404.04612)], [Code]
 - All Nodes are created Not Equal: Node-Specific Layer Aggregation and Filtration for GNN, arXiv, [[Paper](https://arxiv.org/abs/2405.07892)], [[Code]](https://github.com/wslong20/NoSAF-NoSAF-D)
 - LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework, arXiv, [[Paper](https://arxiv.org/abs/2405.13902)], [[Code]](https://github.com/QiaoYRan/LOGIN)
-- Learning Graph Filters for Spectral GNNs via Newton Interpolation, arXiv, [[Paper](Shape-aware Graph Spectral Learning)], [Code]
+- Learning Graph Filters for Spectral GNNs via Newton Interpolation, arXiv, [[Paper](https://arxiv.org/abs/2310.10064)], [Code]
 
 ### 2023
 - Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
