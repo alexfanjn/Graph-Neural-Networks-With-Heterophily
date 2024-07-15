@@ -11,7 +11,14 @@ If you find anything incorrect, please let me know. Thanks!
 ## Papers
 
 ### 2024
-
+- Multi-Track Message Passing: Tackling Oversmoothing and Oversquashing in Graph Learning via Preventing Heterophily Mixing, ICML, [[paper](https://openreview.net/pdf/2dc1ec156d3862757eb963f76af9f18681a515ba.pdf
+)], [[Code]](https://github.com/XJTU-Graph-Intelligence-Lab/mtgcn)
+- Mitigating Oversmoothing Through Reverse Process of GNNs for Heterophilic Graphs, ICML, [[paper](https://arxiv.org/pdf/2403.10543
+)], [[Code]](https://github.com/ml-postech/reverse-gnn)
+- How Universal Polynomial Bases Enhance Spectral Graph Neural Networks: Heterophily, Over-smoothing, and Over-squashing, ICML, [[paper](https://arxiv.org/pdf/2405.12474
+)], [[Code]](https://github.com/kkhuang81/UniFilter)
+- Graph Neural Networks Use Graphs When They Shouldn’t, ICML, [[paper](https://arxiv.org/pdf/2309.04332
+)], [[Code]](https://github.com/mayabechlerspeicher/Graph_Neural_Networks_Overfit_Graphs)
 - Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision, ICLR, [[Paper](https://openreview.net/forum?id=elMKXvhhQ9)], [Code]
 - PolyGCL: Graph Contrastive Learning via Learnable Spectral Polynomial Filters, ICLR, [[Paper](https://openreview.net/forum?id=y21ZO6M86t)], [Code]
 - Partitioning Message Passing for Graph Fraud Detection, ICLR, [[Paper](https://openreview.net/forum?id=tEgrUrUuwA)], [Code]
@@ -32,7 +39,6 @@ If you find anything incorrect, please let me know. Thanks!
 - Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification, ICDE, [[Paper](https://arxiv.org/abs/2312.04111)], [Code]
 - Lying Graph Convolution: Learning to Lie for Node Classification Tasks, IJCNN, [[Paper](https://arxiv.org/abs/2405.01247)], [[Code]](https://github.com/danielecastellana22/lying-graph-convolution)
 - SeBot: Structural Entropy Guided Multi-View Contrastive Learning for Social Bot Detection, KDD, [[Paper](https://arxiv.org/abs/2405.11225)], [[Code]](https://github.com/846468230/SEBot)
-- How Universal Polynomial Bases Enhance Spectral Graph Neural Networks: Heterophily, Over-smoothing, and Over-squashing, ICML, [[Paper](https://arxiv.org/abs/2405.12474)], [[Code]](https://github.com/kkhuang81/UniFilter)
 - Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering, arXiv, [[Paper](https://arxiv.org/abs/2401.09071)], [Code]
 - Understanding Heterophily for Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2401.09125)], [Code]
 - Universally Robust Graph Neural Networks by Preserving Neighbor Similarity, arXiv, [[Paper](https://arxiv.org/abs/2401.09754)], [Code]
