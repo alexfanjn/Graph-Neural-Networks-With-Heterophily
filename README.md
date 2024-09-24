@@ -84,6 +84,7 @@ If you find anything incorrect, please let me know. Thanks!
 - Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach, arXiv, [[Paper](https://arxiv.org/abs/2406.03464)], [Code]
 - What Is Missing In Homophily? Disentangling Graph Homophily For Graph Neural Networks, arXiv, [[Paper](https://arxiv.org/abs/2406.18854)], [[Code]](https://github.com/zylMozart/Disentangle_GraphHom)
 - NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification, arXiv, [[Paper](https://arxiv.org/abs/2406.19249)], [Code]
+- When Heterophily Meets Heterogeneity: New Graph Benchmarks and Effective Methods, arXiv, [[Paper](https://arxiv.org/abs/2407.10916)], [[Code]](https://github.com/junhongmit/H2GB)
 
 ### 2023
 - Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating, AAAI, [[Paper](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
